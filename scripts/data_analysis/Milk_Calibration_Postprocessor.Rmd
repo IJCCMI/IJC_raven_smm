@@ -1,0 +1,68 @@
+---
+title: "Milk Calibration Subbasins"
+author: "ECCC/UWaterloo Sep 2023"
+output: html_document
+---
+
+Naturalized flows and model results within the Milk River.
+
+```{r, echo = FALSE, message = F, warning = F, fig.width=10, fig.height=3}
+#postprocessor for results.  may eventually turn into the driver
+library(dplyr)
+library(purrr)
+library(xts)
+library(dygraphs)
+library(RavenR)
+library(methods)
+library(htmlwidgets)
+library(here)
+
+path <- here()
+
+
+calibs <- read.csv(file.path(path, 'tables/naturalized_flows_summary.csv'))
+calibs <- calibs %>%
+  mutate(ravenname = paste0('sub', subbasin_id)) %>%
+  filter(Basin == 'Milk')
+
+#manually add on milk eastern crossing
+#east <- tibble(subbasin_id = 114036, ravenname = 'sub114036', real_stream_name = 'Milk River at Eastern Crossing of International Boundary')
+
+#calibs <- calibs %>%
+#  bind_rows(east)
+
+
+#------------------------------------------------------------------
+#source(paste0(path, "/scripts/hyd.read.R")) # need the newest version of this
+hy<-rvn_hyd_read(file.path(path, "model/output/Hydrographs.csv"))
+
+plotfunc <- function(ravenname, real_stream_name, ...){
+  hyd <- rvn_hyd_extract(subs = ravenname, hyd = hy)
+  flow <- merge(hyd$sim, hyd$obs)
+  return(dygraph(flow, group = 'flows', main = real_stream_name) %>% 
+    dyRangeSelector())
+}
+
+res <- pmap(list(calibs$ravenname, calibs$real_stream_name), plotfunc)
+
+
+####################
+#precip
+#pp <- read_csv(paste0(path, '/red_deer_raven/output/WatershedStorage.csv')) %>%
+#  select(date, hour, `rainfall [mm/day]`, `snowfall [mm/d SWE]`) %>%
+#  unite(Date.Time, date, hour) %>%
+#  mutate(Date.Time = lubridate::ymd_hms(Date.Time))
+
+#pp.xts <- xts(pp, order.by = pp$Date.Time)
+
+#p <- dygraph(pp.xts, group = 'flows', main = 'precip') %>%
+#  dyOptions(stepPlot = TRUE, fillGraph = TRUE, colors = c('#66c2a5', '#fc8d62'))
+#res <- c(res, p)
+########################
+
+htmltools::tagList(res)
+
+
+
+```
+

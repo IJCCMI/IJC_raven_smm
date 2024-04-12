@@ -1,0 +1,129 @@
+#-----------------------------------------------------------------
+# Raven Properties file Template. Created by Raven v3.7 w/ netCDF
+#-----------------------------------------------------------------
+# all expressions of format *xxx* need to be specified by the user 
+# all parameter values of format ** need to be specified by the user 
+# soil, land use, and vegetation classes should be made consistent with user-generated .rvh file 
+#-----------------------------------------------------------------
+
+#-----------------------------------------------------------------
+# Soil Classes
+#-----------------------------------------------------------------
+:SoilClasses
+  :Attributes, SAND , CLAY, ORGANIC
+  :Units, frac, frac, frac
+	TOPSOIL1,1,0,0
+	SLOW_RES1,1,0,0
+	FAST_RES1,1,0,0
+	TOPSOIL2,1,0,0
+	SLOW_RES2,1,0,0
+	FAST_RES2,1,0,0
+	TOPSOIL3,1,0,0
+	SLOW_RES3,1,0,0
+	FAST_RES3,1,0,0
+:EndSoilClasses
+
+#-----------------------------------------------------------------
+# Land Use Classes
+#-----------------------------------------------------------------
+:LandUseClasses, 
+  :Attributes,   IMPERM,    FOREST_COV, 
+       :Units,     frac,          frac, 
+  Crops,              0,         0.25, 
+  Shrubgrass,         0,         0.25, 
+  LeafForest,         0,            1,
+  Needleforest,       0,            1, 
+  Open,               0             0, 
+:EndLandUseClasses
+
+#-----------------------------------------------------------------
+# Vegetation Classes
+#-----------------------------------------------------------------
+:VegetationClasses, 
+  :Attributes,          MAX_HT,      MAX_LAI, MAX_LEAF_COND, 
+       :Units,               m,         none,      mm_per_s, 
+      Crops,                 4,            5,             5, 
+      Shrubgrass,            4,            5,             5, 
+      LeafForest,           15,            6,             5, 
+      Needleforest,         15,            6,             5, 
+      Open,                  0,            0,             0,
+:EndVegetationClasses
+
+#-----------------------------------------------------------------
+# Soil Profiles
+#-----------------------------------------------------------------
+:SoilProfiles
+     LAKE,    0
+     ROCK,    0
+     GLACIER, 0
+		 SOIL_1,  3,TOPSOIL1,0.318987294801244,FAST_RES1,0.33,SLOW_RES1,0.33
+		 SOIL_2,  3,TOPSOIL2,0.101417982930842,FAST_RES2,0.33,SLOW_RES2,0.33
+		 SOIL_3,  3,TOPSOIL3,0.555580132575093,FAST_RES3,0.33,SLOW_RES3,0.33
+:EndSoilProfiles
+
+#-----------------------------------------------------------------
+# Global Parameters
+#-----------------------------------------------------------------
+:GlobalParameter          RAINSNOW_TEMP    0.999845904846241 
+:GlobalParameter            RAINSNOW_DELTA 0.0515385256758125 
+:GlobalParameter               SNOW_SWI    0.04660313697493 
+:GlobalParameter            TOC_MULTIPLIER 1 
+:GlobalParameter   TIME_TO_PEAK_MULTIPLIER 1 
+:GlobalParameter    GAMMA_SHAPE_MULTIPLIER 1 
+:GlobalParameter    GAMMA_SCALE_MULTIPLIER 1 
+:GlobalParameter        AVG_ANNUAL_RUNOFF  50
+:GlobalParameter        ADIABATIC_LAPSE    6.01924136877004
+#-----------------------------------------------------------------
+# Soil Parameters
+#-----------------------------------------------------------------
+:SoilParameterList
+  :Parameters,        POROSITY,        HBV_BETA,  PET_CORRECTION,  FIELD_CAPACITY,        SAT_WILT, MAX_CAP_RISE_RATE,   MAX_PERC_RATE,  BASEFLOW_COEFF,      BASEFLOW_N, BASEFLOW_COEFF2, STORAGE_THRESHOLD, 
+       :Units,               -,               -,               -,               -,               -,            mm/d,            mm/d,             1/d,               -,             1/d,              mm, 
+    [DEFAULT],             0.4,         0.000646753642947112,         0.750630561875244,         0.401144691931094,         0.00947598176225408,         0.210000950733543,         24.9017869364531,         0.000265241260631237,         7.28355257335148,         0.294816005302495,         0.144067356051051, 
+    TOPSOIL1,         _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT, 
+    FAST_RES1,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT, 
+    SLOW_RES1,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT, 
+    TOPSOIL2,         _DEFAULT,         7.57258213744932e-06,         0.752229236764904,         0.525136728896965,         0.105714132047034,        _DEFAULT,        _DEFAULT,         0.000159090217836747,        _DEFAULT,         0.0137967315589691,        _DEFAULT, 
+    FAST_RES2,        _DEFAULT,         7.57258213744932e-06,         0.752229236764904,         0.525136728896965,         0.105714132047034,        _DEFAULT,        _DEFAULT,         0.000159090217836747,        _DEFAULT,         0.0137967315589691,        _DEFAULT, 
+    SLOW_RES2,        _DEFAULT,         7.57258213744932e-06,         0.752229236764904,         0.525136728896965,         0.105714132047034,        _DEFAULT,        _DEFAULT,         0.0864979916940723,        _DEFAULT,         0.0137967315589691,        _DEFAULT, 
+    TOPSOIL3,         _DEFAULT,         2.86519988284557,         1.18594135586471,         0.400024588161365,         0.00495314891444283,        _DEFAULT,        _DEFAULT,         0.32937776540993,        _DEFAULT,         0.491986783892728,         4.46462766009563e-05, 
+    FAST_RES3,        _DEFAULT,         2.86519988284557,         1.18594135586471,         0.400024588161365,         0.00495314891444283,        _DEFAULT,        _DEFAULT,         0.32937776540993,        _DEFAULT,         0.491986783892728,         4.46462766009563e-05, 
+    SLOW_RES3,        _DEFAULT,         2.86519988284557,         1.18594135586471,         0.400024588161365,         0.00495314891444283,        _DEFAULT,        _DEFAULT,         0.32937776540993,        _DEFAULT,         0.491986783892728,         4.46462766009563e-05, 
+:EndSoilParameterList
+
+#-----------------------------------------------------------------
+# Land Use Parameters
+#-----------------------------------------------------------------
+:LandUseParameterList
+  :Parameters,     MELT_FACTOR,    DD_MELT_TEMP, MIN_MELT_FACTOR, HBV_MELT_ASP_CORR, HBV_MELT_FOR_CORR, REFREEZE_FACTOR, FOREST_SPARSENESS, HBV_MELT_GLACIER_CORR, HBV_GLACIER_KMIN, GLAC_STORAGE_COEFF,  HBV_GLACIER_AG,   LAKE_PET_CORR,	OW_PET_CORR,	LAKE_REL_COEFF,    PDMROF_B,       DEP_MAX, MAX_DEP_AREA_FRAC, PONDED_EXP, 
+       :Units,          mm/d/k,            degC,          mm/d/k,                 -,                 -,          mm/d/k,                 -,           	        -,                -,      	      -,            1/mm,               -,             	  -,		   1/d,           -,            mm,                 -,          -, 
+    [DEFAULT],         3.00907055536205,         -0.498665923635187,               2,                 0,                 1,         1.00040261524728,               0.5,        	  0.500396812169364,            0.001,         	0.030925728099243,               0,         0.800012433921809,          0.200758981928612,		  0.01,     0.504561074057842,       0.0274505677756114,           0.00326796740893098,    3.49753602211463, 
+    Crops,            _DEFAULT,        _DEFAULT,        _DEFAULT,          _DEFAULT,          _DEFAULT,        _DEFAULT,          _DEFAULT,        	 _DEFAULT,         _DEFAULT,           _DEFAULT,        _DEFAULT,        _DEFAULT,         _DEFAULT,	      _DEFAULT,     0.500409681258089,       262.213031154706,           0.000154461533359389,    1.00666189828798, 
+    Shrubgrass,       _DEFAULT,        _DEFAULT,        _DEFAULT,          _DEFAULT,          _DEFAULT,        _DEFAULT,          _DEFAULT,      	 _DEFAULT,         _DEFAULT,           _DEFAULT,        _DEFAULT,        _DEFAULT,         _DEFAULT,	      _DEFAULT,     0.803815011464165,       0.00327121159551336,           0.00606659563205067,    1.00000033079242, 
+    Needleforest,      5.92791880169451,         -0.48271798067083,        _DEFAULT,          _DEFAULT,          _DEFAULT,        _DEFAULT,          _DEFAULT,              _DEFAULT,         _DEFAULT,           _DEFAULT,        _DEFAULT,        _DEFAULT,         _DEFAULT, 	      _DEFAULT,    _DEFAULT,      _DEFAULT,          _DEFAULT,   _DEFAULT, 
+    LeafForest,        4.1768410580538,         -0.48271798067083,        _DEFAULT,          _DEFAULT,          _DEFAULT,        _DEFAULT,          _DEFAULT,        	 _DEFAULT,         _DEFAULT,           _DEFAULT,        _DEFAULT,        _DEFAULT,         _DEFAULT,	      _DEFAULT,    _DEFAULT,      _DEFAULT,          _DEFAULT,   _DEFAULT, 
+    Open,              5.36293952003794,        _DEFAULT,        _DEFAULT,          _DEFAULT,          _DEFAULT,        _DEFAULT,          _DEFAULT,              _DEFAULT,         _DEFAULT,           _DEFAULT,        _DEFAULT,        _DEFAULT,         _DEFAULT,	      _DEFAULT,    _DEFAULT,      _DEFAULT,          _DEFAULT,   _DEFAULT, 
+:EndLandUseParameterList
+
+#-----------------------------------------------------------------
+# Vegetation Parameters
+#-----------------------------------------------------------------
+:VegetationParameterList
+  :Parameters,  RAIN_ICEPT_PCT,  SNOW_ICEPT_PCT,     SAI_HT_RATIO,    MAX_CAPACITY, MAX_SNOW_CAPACITY, 
+       :Units,               -,               -,             mm/d,              mm,                mm,
+    [DEFAULT],         0.023665589366407,         0.0204190447095819,                2,         2.00408538936056,           2.00000030340058, 
+    Crops,            _DEFAULT,        _DEFAULT,         _DEFAULT,        _DEFAULT,          _DEFAULT, 
+    Shrubgrass,        0.0200119575486072,         0.0242511136880371,         _DEFAULT,        _DEFAULT,          _DEFAULT,
+    Needleforest,      0.024684038430637,         0.0200039750446602,                4,         19.4301652398148,           2.00001902643477, 
+    LeafForest,        0.024684038430637,         0.0200039750446602,                4,         19.4301652398148,           2.00001902643477, 
+    Open,                    0,        _DEFAULT,                2,               0,                 0, 
+:EndVegetationParameterList
+:SeasonalRelativeLAI
+  [DEFAULT], 1,1,1,1,1,1,1,1,1,1,1,1
+:EndSeasonalRelativeLAI
+:SeasonalRelativeHeight
+  [DEFAULT], 1,1,1,1,1,1,1,1,1,1,1,1
+:EndSeasonalRelativeHeight
+
+# ----Channel profiles-------------------------
+:RedirectToFile channel_sections.rvp

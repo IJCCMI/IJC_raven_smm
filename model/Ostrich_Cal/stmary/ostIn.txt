@@ -1,0 +1,119 @@
+ProgramType  	    DDS
+ObjectiveFunction   GCOP
+ModelExecutable     Ost-RAVEN.bat
+PreserveBestModel   save_best.bat
+
+ModelSubdir processor_
+
+BeginExtraDirs
+model
+EndExtraDirs
+
+BeginFilePairs
+  stmary.rvp.tpl;	stmary.rvp
+  #can be multiple (.rvh, .rvi)
+EndFilePairs
+
+#Parameter/DV Specification
+BeginParams
+#parameter	init.	low	high	tx_in  	tx_ost 	tx_out
+par_x01	0.286	0.1	1	none	none	none
+par_x02	0.165	0.1	1	none	none	none
+par_x03	0.504	0.1	1	none	none	none
+par_x04	0.196	-1	1	none	none	none
+par_x05	3.556	0	4	none	none	none
+par_x06	0.041	0.04	0.07	none	none	none
+par_x07	6.971	4	7	none	none	none
+par_x08	6.401	0	7	none	none	none
+par_x09	0.170	0	7	none	none	none
+par_x10	6.486	0	7	none	none	none
+par_x11	1.218	0.75	1.25	none	none	none
+par_x12	0.785	0.75	1.25	none	none	none
+par_x13	0.788	0.75	1.25	none	none	none
+par_x14	0.635	0.4	0.8	none	none	none
+par_x15	0.682	0.4	0.8	none	none	none
+par_x16	0.733	0.4	0.8	none	none	none
+par_x17	0.007	0	0.2	none	none	none
+par_x18	0.050	0	0.2	none	none	none
+par_x19	0.135	0	0.2	none	none	none
+par_x20	0.595	0.21	20	none	none	none
+par_x21	76.590	0	100	none	none	none
+par_x22	0.476	0	0.5	none	none	none
+par_x23	0.088	0	0.5	none	none	none
+par_x24	0.066	0	0.5	none	none	none
+par_x25	0.303	0	0.5	none	none	none
+par_x26	9.446	1	10	none	none	none
+par_x27	0.214	0	0.5	none	none	none
+par_x28	0.007	0	0.5	none	none	none
+par_x29	random	0	0.5	none	none	none
+#par_x30	random	0	100	none	none	none
+#par_x31	random	0	100	none	none	none
+par_x32	5.077	3	7	none	none	none
+par_x33	6.385	3	7	none	none	none
+par_x34	6.317	3	7	none	none	none
+par_x35	3.564	3	7	none	none	none
+par_x36	0.282	-0.5	0.5	none	none	none
+par_x37	-0.402	-0.5	0.5	none	none	none
+par_x38	3.241	1	4	none	none	none
+par_x39	1.427	0.5	1.5	none	none	none
+par_x40	0.008	0	0.3	none	none	none
+#par_x41	random	0.5	1.5	none	none	none
+#par_x42	random	0.5	1.5	none	none	none
+#par_x43	random	0.5	1.5	none	none	none
+#par_x44	random	0	500	none	none	none
+#par_x45	random	0	500	none	none	none
+#par_x46	random	0	500	none	none	none
+#par_x47	random	0	0.8	none	none	none
+#par_x48	random	0	0.8	none	none	none
+#par_x49	random	0	0.8	none	none	none
+#par_x50	random	1	5	none	none	none
+#par_x51	random	1	5	none	none	none
+#par_x52	random	1	5	none	none	none
+par_x53	0.040	0.02	0.2	none	none	none
+par_x54	0.181	0.02	0.2	none	none	none
+par_x55	0.037	0.02	0.2	none	none	none
+par_x56	0.026	0.02	0.2	none	none	none
+par_x57	0.187	0.02	0.2	none	none	none
+par_x58	0.067	0.02	0.2	none	none	none
+par_x59	13.298	2	20	none	none	none
+par_x60	11.451	2	20	none	none	none
+par_x61	13.092	2	20	none	none	none
+par_x62	11.695	2	20	none	none	none
+par_x63	0.828	0.8	1.2	none	none	none
+par_x64	0.488	0.2	1.2	none	none	none
+EndParams
+
+BeginResponseVars
+  #name	  filename			        keyword		line	col	token
+  KGE1      .\model\out\Diagnostics.csv;	OST_NULL	1	3	','
+  KGE2      .\model\out\Diagnostics.csv;	OST_NULL	2	3	','
+  KGE3      .\model\out\Diagnostics.csv;	OST_NULL	3	3	','
+EndResponseVars
+
+BeginTiedRespVars
+  # MEANKGE 3 KGE1 KGE2 KGE3 wsum -0.333 -0.333 -0.334
+  MEANKGE 3 KGE1 KGE2 KGE3 wsum -0.35 -0.60 -0.05  # weight by DA SMRBB|SMRIB|Sherburne
+
+EndTiedRespVars
+
+BeginGCOP
+  CostFunction MEANKGE
+EndGCOP
+
+BeginConstraints
+	# not needed when no constraints, but PenaltyFunction statement above is required
+	# name     type     penalty    lwr   upr   resp.var
+EndConstraints
+
+# Randomsed control added
+RandomSeed 1234
+
+#Algorithm should be last in this file:
+
+BeginDDSAlg
+	PerturbationValue 0.20
+	MaxIterations 2000
+	UseRandomParamValues
+	# UseInitialParamValues
+	# above intializes DDS to parameter values IN the initial model input files
+EndDDSAlg

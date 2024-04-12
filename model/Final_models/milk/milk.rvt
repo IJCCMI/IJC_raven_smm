@@ -1,0 +1,56 @@
+#------------------------------------------------------------------------
+# CaSPAr Data Input File
+#------------------------------------------------------------------------
+#
+:GriddedForcing 			Precipitation
+	:ForcingType 			PRECIP
+	:FileNameNC 			input/RavenInput_V4.nc
+	:VarNameNC 			precipitation
+	:DimNamesNC 			rlon rlat time
+        :ElevationVarNameNC		Geopotential_Elevation
+	:RedirectToFile 		input/GridWeights.txt
+:EndGriddedForcing
+#
+:GriddedForcing 			Maxtemp
+	:ForcingType 			TEMP_DAILY_MAX
+	:FileNameNC 			input/RavenInput_V4.nc
+	:VarNameNC 			max_temperature
+	:DimNamesNC 			rlon rlat time
+        :ElevationVarNameNC		Geopotential_Elevation
+	:RedirectToFile 		input/GridWeights.txt
+:EndGriddedForcing
+#
+:GriddedForcing 			Mintemp
+	:ForcingType 			TEMP_DAILY_MIN
+	:FileNameNC 			input/RavenInput_V4.nc
+	:VarNameNC 			min_temperature
+	:DimNamesNC 			rlon rlat time
+        :ElevationVarNameNC		Geopotential_Elevation
+	:RedirectToFile 		input/GridWeights.txt
+:EndGriddedForcing
+#
+
+#
+#------------------------------------------------------------------------
+# Observed Discharge Data
+#------------------------------------------------------------------------
+#
+# Please don't try simulating St.Mary lk R watershed with this model.
+# This model is only has been calibrated for StMary R watershed. Use at your own discretion
+#stmary 
+#:RedirectToFile input/obs/st_05017500.rvt
+#:RedirectToFile input/obs/st_05020500.rvt
+#:RedirectToFile input/obs/st_05014500.rvt
+
+#milk 
+:RedirectToFile input/obs/st_06167500.rvt
+:RedirectToFile input/obs/st_06139500.rvt
+:RedirectToFile input/obs/st_06149500.rvt
+:RedirectToFile input/obs/st_06142400.rvt
+:RedirectToFile input/obs/st_06164000.rvt
+:RedirectToFile input/obs/st_06145500.rvt
+:RedirectToFile input/obs/st_06133000.rvt
+:RedirectToFile input/obs/st_06133500.rvt
+:RedirectToFile input/obs/st_06154550.rvt
+:RedirectToFile input/obs/st_06171000.rvt
+:RedirectToFile input/obs/st_06135000.rvt # USGS gauge for eastern crossing

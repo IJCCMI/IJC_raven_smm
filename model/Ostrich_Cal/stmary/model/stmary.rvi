@@ -1,0 +1,150 @@
+#########################################################################
+# Raven Input File
+# Modeller:				Joel Trubilowicz (ECCC), Madeline Tucker, Hannah Burdett, and Rezgar Arabzadeh (UWaterloo)	
+# Model description:	St, Mary - Milk River Combined model for IJC/ECCC
+# Model description: 	HBV-EC model with lakes in higher elevations, HYPR in prairies 
+# Model description:	Meant for Raven 3.7
+# Date created: 		31 August, 2023
+:StartDate 1981-10-01 00:00:00
+:EndDate 2015-09-30 00:00:00
+:TimeStep 24:00:00
+
+# --Model Details -------------------------------
+:Method				ORDERED_SERIES
+:Interpolation			INTERP_NEAREST_NEIGHBOR
+:CatchmentRoute			ROUTE_TRI_CONVOLUTION
+:Routing			ROUTE_DIFFUSIVE_WAVE  
+:Evaporation			PET_HARGREAVES_1985
+:OW_Evaporation			PET_HARGREAVES_1985
+:SWRadiationMethod		SW_RAD_DEFAULT
+:SWCloudCorrect			SW_CLOUD_CORR_NONE
+:SWCanopyCorrect		SW_CANOPY_CORR_NONE
+:LWRadiationMethod		LW_RAD_DEFAULT
+:RainSnowFraction		RAINSNOW_HBV
+:PotentialMeltMethod		POTMELT_HBV
+:CloudCoverMethod		CLOUDCOV_NONE
+:PrecipIceptFract		PRECIP_ICEPT_USER
+:MonthlyInterpolationMethod	MONTHINT_LINEAR_21
+:SoilModel			SOIL_MULTILAYER 3
+:RelativeHumidityMethod		RELHUM_MINDEWPT
+:LakeStorage			LAKE_STORAGE
+:OroTempCorrect			OROCORR_HBV
+:OroPrecipCorrect		OROCORR_HBV
+:OroPETCorrect			OROCORR_HBV
+
+# --Evaluation Periods Details -------------------------------
+#:EvaluationPeriod VALIDATION1  1985-10-01 1990-09-30
+#:EvaluationPeriod VALIDATION2  1999-10-01 2004-09-30
+#:EvaluationPeriod VALIDATION3  2008-10-01 2012-09-30
+
+# --Hydrologic Processes-------------------------
+:Alias FAST_RESERVOIR SOIL[1]
+:Alias SLOW_RESERVOIR SOIL[2]
+
+#HRU Groups
+#------------------------------------------------------------------------
+:DefineHRUGroups HBVEC HYPR StMary Milk Glaciers Babb Havre Malta RockyBoy FlatTop ManyGlacier
+:DefineHRUGroups band600 band800 band1000 band1200 band1400 band1600 band1800
+:DefineHRUGroups band2000 band2200 band2400 band2600
+
+
+:HydrologicProcesses
+	:SnowRefreeze FREEZE_DEGREE_DAY SNOW_LIQ SNOW
+	:Precipitation PRECIP_RAVEN ATMOS_PRECIP MULTIPLE
+	:CanopyEvaporation CANEVP_ALL CANOPY ATMOSPHERE
+	:CanopySublimation CANEVP_ALL CANOPY_SNOW ATMOSPHERE
+	
+	#hypr doesnt have liquid snow but why does it does have refreeze?
+	:SnowBalance SNOBAL_SIMPLE_MELT SNOW SNOW_LIQ
+		:-->Overflow RAVEN_DEFAULT SNOW_LIQ PONDED_WATER
+
+	#add sublimation approximation
+	# BT :Sublimation SUBLIM_KUZMIN SNOW ATMOSPHERE
+
+	#glaciers only in HBV section	
+	:Flush RAVEN_DEFAULT PONDED_WATER GLACIER
+		:-->Conditional HRU_TYPE IS GLACIER
+		:-->Conditional HRU_GROUP IS HBVEC
+	:GlacierMelt GMELT_HBV GLACIER_ICE GLACIER
+		:-->Conditional HRU_GROUP IS HBVEC
+	:GlacierRelease GRELEASE_HBV_EC GLACIER SURFACE_WATER
+		:-->Conditional HRU_GROUP IS HBVEC
+
+	#All models use HBV infiltration
+	:Infiltration INF_HBV PONDED_WATER MULTIPLE
+
+
+	#################################################
+	#HBV type model stuff
+	:Flush RAVEN_DEFAULT SURFACE_WATER FAST_RESERVOIR
+		:-->Conditional HRU_TYPE IS_NOT GLACIER	
+		:-->Conditional HRU_GROUP IS HBVEC
+	:SoilEvaporation SOILEVAP_HBV SOIL[0] ATMOSPHERE
+		:-->Conditional HRU_GROUP IS HBVEC
+	:CapillaryRise CRISE_HBV FAST_RESERVOIR SOIL[0]
+		:-->Conditional HRU_GROUP IS HBVEC
+
+	#HBVEC hrus only but its not really hbv, we made more standard lakes
+	:LakeEvaporation  LAKE_EVAP_BASIC LAKE_STORAGE	ATMOSPHERE
+		:-->Conditional HRU_GROUP IS HBVEC
+	:LakeRelease LAKEREL_LINEAR LAKE_STORAGE SURFACE_WATER
+		:-->Conditional HRU_GROUP IS HBVEC
+
+	:Percolation PERC_CONSTANT FAST_RESERVOIR SLOW_RESERVOIR
+		:-->Conditional HRU_GROUP IS HBVEC
+	:Baseflow BASE_POWER_LAW FAST_RESERVOIR SURFACE_WATER
+		:-->Conditional HRU_GROUP IS HBVEC
+	:Baseflow BASE_LINEAR SLOW_RESERVOIR SURFACE_WATER
+		:-->Conditional HRU_GROUP IS HBVEC
+	:LateralEquilibrate RAVEN_DEFAULT HBVEC FAST_RESERVOIR 1.0
+	:LateralEquilibrate RAVEN_DEFAULT HBVEC SLOW_RESERVOIR 1.0
+    #####################################################################3
+
+
+    #####################################################################3
+	#HYPR model stuff
+	:Flush RAVEN_DEFAULT SURFACE_WATER PONDED_WATER
+		:-->Conditional HRU_GROUP IS HYPR
+	:Abstraction ABST_PDMROF PONDED_WATER DEPRESSION
+		:-->Conditional HRU_GROUP IS HYPR
+	:Flush RAVEN_DEFAULT SURFACE_WATER FAST_RESERVOIR
+		:-->Conditional HRU_GROUP IS HYPR
+	:SoilEvaporation SOILEVAP_HYPR MULTIPLE ATMOSPHERE
+		:-->Conditional HRU_GROUP IS HYPR
+	:Baseflow BASE_LINEAR FAST_RESERVOIR SURFACE_WATER
+		:-->Conditional HRU_GROUP IS HYPR
+	:Baseflow BASE_THRESH_STOR FAST_RESERVOIR SURFACE_WATER
+		:-->Conditional HRU_GROUP IS HYPR
+	:OpenWaterEvaporation OPEN_WATER_EVAP DEPRESSION ATMOSPHERE
+		:-->Conditional HRU_GROUP IS HYPR
+    #####################################################################3
+:EndHydrologicProcesses
+
+
+#pearson correlation also part of benchmarking, not in raven
+#:EvaluationMetrics RMSE NASH_SUTCLIFFE KLING_GUPTA PCT_BIAS LOG_NASH R2
+:EvaluationMetrics KLING_GUPTA PCT_BIAS 
+#:SuppressOutput
+
+#diagnostics
+#:WriteForcingFunctions
+#:WriteDemandFile
+#:WriteReservoirMBFile
+#:WriteMassBalanceFile
+
+#:CreateRVPTemplate
+#:NoisyMode
+#:DebugMode
+:SilentMode
+#:WriteDemandFile
+
+#:CustomOutput DAILY AVERAGE AET BY_HRU_GROUP
+#:CustomOutput MONTHLY AVERAGE PET BY_HRU_GROUP
+#:CustomOutput DAILY AVERAGE SNOW BY_HRU_GROUP
+#:CustomOutput DAILY AVERAGE TEMP_DAILY_MAX BY_HRU_GROUP
+#:CustomOutput DAILY AVERAGE TEMP_DAILY_MIN BY_HRU_GROUP
+#:CustomOutput MONTHLY AVERAGE DEPRESSION BY_HRU_GROUP
+#:CustomOutput MONTHLY AVERAGE LAKE_STORAGE BY_HRU_GROUP
+#:CustomOutput DAILY AVERAGE PRECIP BY_HRU_GROUP
+#:DisableHRUGroup Milk
+#:DisableHRUGroup StMary

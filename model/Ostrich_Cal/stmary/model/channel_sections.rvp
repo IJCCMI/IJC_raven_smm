@@ -1,0 +1,8058 @@
+:ChannelProfile Chn_99999
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		15.02	0.28
+		15.58	0
+		21.96	0
+		22.53	0.28
+		37.54	0.28
+		37.54	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113490
+	:Bedslope 0.02888
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		15.92	0.3
+		16.52	0
+		23.29	0
+		23.89	0.3
+		39.81	0.3
+		39.81	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113492
+	:Bedslope 0.11504
+	:SurveyPoints
+		0	4.12
+		0	0.12
+		6.6	0.12
+		6.84	0
+		9.65	0
+		9.89	0.12
+		16.49	0.12
+		16.49	4.12
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113494
+	:Bedslope 0.00207
+	:SurveyPoints
+		0	4.16
+		0	0.16
+		8.27	0.16
+		8.58	0
+		12.1	0
+		12.41	0.16
+		20.68	0.16
+		20.68	4.16
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04640934 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113496
+	:Bedslope 0.00344
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.42	0.2
+		10.81	0
+		15.24	0
+		15.63	0.2
+		26.06	0.2
+		26.06	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05128033 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113497
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.32
+		0	0.32
+		17.33	0.32
+		17.98	0
+		25.34	0
+		25.99	0.32
+		43.32	0.32
+		43.32	4.32
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113498
+	:Bedslope 0.06972
+	:SurveyPoints
+		0	4.16
+		0	0.16
+		8.59	0.16
+		8.91	0
+		12.56	0
+		12.88	0.16
+		21.47	0.16
+		21.47	4.16
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113500
+	:Bedslope 0.00418
+	:SurveyPoints
+		0	4.37
+		0	0.37
+		19.86	0.37
+		20.6	0
+		29.04	0
+		29.78	0.37
+		49.64	0.37
+		49.64	4.37
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03678382 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113501
+	:Bedslope 0.0025
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		12.91	0.24
+		13.39	0
+		18.88	0
+		19.36	0.24
+		32.27	0.24
+		32.27	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0379082 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113503
+	:Bedslope 0.01655
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		12.95	0.24
+		13.44	0
+		18.94	0
+		19.43	0.24
+		32.38	0.24
+		32.38	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113506
+	:Bedslope 0.00858
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.77	0.28
+		15.33	0
+		21.61	0
+		22.16	0.28
+		36.94	0.28
+		36.94	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06418151 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113510
+	:Bedslope 0.00383
+	:SurveyPoints
+		0	4.39
+		0	0.39
+		20.55	0.39
+		21.32	0
+		30.05	0
+		30.83	0.39
+		51.38	0.39
+		51.38	4.39
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03441288 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113512
+	:Bedslope 0.02291
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		12.76	0.24
+		13.23	0
+		18.66	0
+		19.13	0.24
+		31.89	0.24
+		31.89	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113513
+	:Bedslope 0.00425
+	:SurveyPoints
+		0	4.41
+		0	0.41
+		22.06	0.41
+		22.89	0
+		32.27	0
+		33.1	0.41
+		55.16	0.41
+		55.16	4.41
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03457259 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113515
+	:Bedslope 0.00418
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.73	0.2
+		11.13	0
+		15.69	0
+		16.1	0.2
+		26.83	0.2
+		26.83	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05543904 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113518
+	:Bedslope 0.00389
+	:SurveyPoints
+		0	4.44
+		0	0.44
+		23.28	0.44
+		24.15	0
+		34.05	0
+		34.92	0.44
+		58.2	0.44
+		58.2	4.44
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03191454 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113523
+	:Bedslope 0.04257
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		10.94	0.21
+		11.35	0
+		16	0
+		16.41	0.21
+		27.36	0.21
+		27.36	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113525
+	:Bedslope 0.00449
+	:SurveyPoints
+		0	4.45
+		0	0.45
+		23.79	0.45
+		24.68	0
+		34.79	0
+		35.68	0.45
+		59.47	0.45
+		59.47	4.45
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0337977 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113527
+	:Bedslope 0.00246
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.32	0.27
+		14.86	0
+		20.95	0
+		21.49	0.27
+		35.81	0.27
+		35.81	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03508372 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113530
+	:Bedslope 0.00355
+	:SurveyPoints
+		0	4.45
+		0	0.45
+		23.92	0.45
+		24.82	0
+		34.99	0
+		35.88	0.45
+		59.81	0.45
+		59.81	4.45
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02993887 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113532
+	:Bedslope 0.00352
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.62	0.29
+		16.2	0
+		22.84	0
+		23.42	0.29
+		39.04	0.29
+		39.04	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03961897 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113533
+	:Bedslope 0.00942
+	:SurveyPoints
+		0	4.14
+		0	0.14
+		7.64	0.14
+		7.93	0
+		11.18	0
+		11.46	0.14
+		19.11	0.14
+		19.11	4.14
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113538
+	:Bedslope 0.00623
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.42	0.27
+		14.96	0
+		21.09	0
+		21.63	0.27
+		36.05	0.27
+		36.05	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05557828 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113540
+	:Bedslope 0.01553
+	:SurveyPoints
+		0	4.1
+		0	0.1
+		4.64	0.1
+		4.84	0
+		6.76	0
+		6.96	0.1
+		11.6	0.1
+		11.6	4.1
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113543
+	:Bedslope 0.00485
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.61	0.29
+		16.2	0
+		22.84	0
+		23.42	0.29
+		39.03	0.29
+		39.03	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04650868 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113545
+	:Bedslope 0.00265
+	:SurveyPoints
+		0	4.49
+		0	0.49
+		25.89	0.49
+		26.86	0
+		37.86	0
+		38.83	0.49
+		64.72	0.49
+		64.72	4.49
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113547
+	:Bedslope 0.00347
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		16.01	0.3
+		16.61	0
+		23.42	0
+		24.02	0.3
+		40.03	0.3
+		40.03	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03868723 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113550
+	:Bedslope 0.00354
+	:SurveyPoints
+		0	4.26
+		0	0.26
+		14.03	0.26
+		14.56	0
+		20.52	0
+		21.04	0.26
+		35.07	0.26
+		35.07	4.26
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04267213 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113552
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.53
+		0	0.53
+		28.08	0.53
+		29.13	0
+		41.06	0
+		42.11	0.53
+		70.19	0.53
+		70.19	4.53
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113553
+	:Bedslope 0.01155
+	:SurveyPoints
+		0	4.53
+		0	0.53
+		28.13	0.53
+		29.18	0
+		41.13	0
+		42.19	0.53
+		70.31	0.53
+		70.31	4.53
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04847944 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113571
+	:Bedslope 0.00537
+	:SurveyPoints
+		0	4.32
+		0	0.32
+		17.25	0.32
+		17.9	0
+		25.23	0
+		25.88	0.32
+		43.13	0.32
+		43.13	4.32
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04579094 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113577
+	:Bedslope 0.00662
+	:SurveyPoints
+		0	4.33
+		0	0.33
+		17.46	0.33
+		18.11	0
+		25.53	0
+		26.19	0.33
+		43.65	0.33
+		43.65	4.33
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05043826 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113579
+	:Bedslope 0.00259
+	:SurveyPoints
+		0	4.96
+		0	0.96
+		51.4	0.96
+		53.33	0
+		75.18	0
+		77.1	0.96
+		128.51	0.96
+		128.51	4.96
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113582
+	:Bedslope 0.00449
+	:SurveyPoints
+		0	4.16
+		0	0.16
+		8.65	0.16
+		8.97	0
+		12.65	0
+		12.97	0.16
+		21.62	0.16
+		21.62	4.16
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06635381 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113584
+	:Bedslope 0.00162
+	:SurveyPoints
+		0	4.98
+		0	0.98
+		52.03	0.98
+		53.98	0
+		76.09	0
+		78.04	0.98
+		130.07	0.98
+		130.07	4.98
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113585
+	:Bedslope 0.00488
+	:SurveyPoints
+		0	4.38
+		0	0.38
+		20.31	0.38
+		21.07	0
+		29.71	0
+		30.47	0.38
+		50.78	0.38
+		50.78	4.38
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03914689 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113588
+	:Bedslope 0.00163
+	:SurveyPoints
+		0	4.6
+		0	0.6
+		31.9	0.6
+		33.09	0
+		46.65	0
+		47.84	0.6
+		79.74	0.6
+		79.74	4.6
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113589
+	:Bedslope 0.00285
+	:SurveyPoints
+		0	4.26
+		0	0.26
+		13.83	0.26
+		14.35	0
+		20.22	0
+		20.74	0.26
+		34.57	0.26
+		34.57	4.26
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03865856 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113597
+	:Bedslope 0.00483
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.32	0.27
+		14.85	0
+		20.94	0
+		21.48	0.27
+		35.8	0.27
+		35.8	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04917217 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113598
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.6
+		0	0.6
+		31.94	0.6
+		33.14	0
+		46.72	0
+		47.91	0.6
+		79.86	0.6
+		79.86	4.6
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113602
+	:Bedslope 0.00242
+	:SurveyPoints
+		0	4.61
+		0	0.61
+		32.65	0.61
+		33.87	0
+		47.75	0
+		48.97	0.61
+		81.62	0.61
+		81.62	4.61
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113611
+	:Bedslope 0.0453
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		9.88	0.19
+		10.25	0
+		14.45	0
+		14.83	0.19
+		24.71	0.19
+		24.71	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113613
+	:Bedslope 0.00782
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.78	0.28
+		15.33	0
+		21.61	0
+		22.17	0.28
+		36.95	0.28
+		36.95	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06126037 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113614
+	:Bedslope 0.03163
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		9.94	0.19
+		10.31	0
+		14.53	0
+		14.91	0.19
+		24.84	0.19
+		24.84	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113617
+	:Bedslope 0.05037
+	:SurveyPoints
+		0	4.14
+		0	0.14
+		7.48	0.14
+		7.76	0
+		10.94	0
+		11.22	0.14
+		18.7	0.14
+		18.7	4.14
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113619
+	:Bedslope 0.01381
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.88	0.22
+		12.33	0
+		17.38	0
+		17.83	0.22
+		29.71	0.22
+		29.71	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113621
+	:Bedslope 0.01704
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.43	0.21
+		11.86	0
+		16.71	0
+		17.14	0.21
+		28.57	0.21
+		28.57	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113622
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.33
+		0	0.33
+		17.69	0.33
+		18.36	0
+		25.88	0
+		26.54	0.33
+		44.24	0.33
+		44.24	4.33
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113624
+	:Bedslope 0.00676
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		12.93	0.24
+		13.41	0
+		18.9	0
+		19.39	0.24
+		32.31	0.24
+		32.31	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06228071 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113625
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.36
+		0	0.36
+		19.09	0.36
+		19.8	0
+		27.91	0
+		28.63	0.36
+		47.72	0.36
+		47.72	4.36
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113628
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.39
+		0	0.39
+		20.78	0.39
+		21.56	0
+		30.4	0
+		31.18	0.39
+		51.96	0.39
+		51.96	4.39
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113631
+	:Bedslope 0.02382
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.1	0.19
+		10.48	0
+		14.77	0
+		15.15	0.19
+		25.25	0.19
+		25.25	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113633
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.6
+		0	0.6
+		31.99	0.6
+		33.18	0
+		46.78	0
+		47.98	0.6
+		79.96	0.6
+		79.96	4.6
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113635
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.38
+		0	0.38
+		20.38	0.38
+		21.14	0
+		29.8	0
+		30.57	0.38
+		50.94	0.38
+		50.94	4.38
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113636
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.55
+		0	0.55
+		29.08	0.55
+		30.17	0
+		42.53	0
+		43.62	0.55
+		72.7	0.55
+		72.7	4.55
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113637
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.62
+		0	0.62
+		32.84	0.62
+		34.08	0
+		48.03	0
+		49.27	0.62
+		82.11	0.62
+		82.11	4.62
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113639
+	:Bedslope 0.00148
+	:SurveyPoints
+		0	4.77
+		0	0.77
+		40.84	0.77
+		42.38	0
+		59.74	0
+		61.27	0.77
+		102.11	0.77
+		102.11	4.77
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113640
+	:Bedslope 0.00575
+	:SurveyPoints
+		0	4.17
+		0	0.17
+		9.19	0.17
+		9.53	0
+		13.43	0
+		13.78	0.17
+		22.96	0.17
+		22.96	4.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07212636 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113641
+	:Bedslope 0.0018
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		16.19	0.3
+		16.79	0
+		23.67	0
+		24.28	0.3
+		40.47	0.3
+		40.47	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02766063 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113644
+	:Bedslope 0.0059
+	:SurveyPoints
+		0	4.18
+		0	0.18
+		9.36	0.18
+		9.71	0
+		13.69	0
+		14.04	0.18
+		23.4	0.18
+		23.4	4.18
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0721418 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113646
+	:Bedslope 0.00111
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.34	0.29
+		15.92	0
+		22.44	0
+		23.01	0.29
+		38.35	0.29
+		38.35	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113648
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.39
+		0	0.39
+		20.84	0.39
+		21.62	0
+		30.47	0
+		31.25	0.39
+		52.09	0.39
+		52.09	4.39
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113649
+	:Bedslope 0.00188
+	:SurveyPoints
+		0	4.25
+		0	0.25
+		13.18	0.25
+		13.68	0
+		19.28	0
+		19.77	0.25
+		32.95	0.25
+		32.95	4.25
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03241721 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113651
+	:Bedslope 0.00492
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.28	0.19
+		10.67	0
+		15.04	0
+		15.43	0.19
+		25.71	0.19
+		25.71	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06187785 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113652
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		15.95	0.3
+		16.55	0
+		23.33	0
+		23.93	0.3
+		39.89	0.3
+		39.89	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113653
+	:Bedslope 0.00628
+	:SurveyPoints
+		0	4.17
+		0	0.17
+		9.25	0.17
+		9.6	0
+		13.53	0
+		13.87	0.17
+		23.12	0.17
+		23.12	4.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07503668 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113656
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.34
+		0	1.34
+		71.6	1.34
+		74.28	0
+		104.71	0
+		107.4	1.34
+		178.99	1.34
+		178.99	5.34
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113657
+	:Bedslope 0.00167
+	:SurveyPoints
+		0	4.31
+		0	0.31
+		16.69	0.31
+		17.31	0
+		24.4	0
+		25.03	0.31
+		41.71	0.31
+		41.71	4.31
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02610938 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113659
+	:Bedslope 0.00295
+	:SurveyPoints
+		0	4.25
+		0	0.25
+		13.54	0.25
+		14.05	0
+		19.81	0
+		20.32	0.25
+		33.86	0.25
+		33.86	4.25
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03987864 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113661
+	:Bedslope 0.00119
+	:SurveyPoints
+		0	4.33
+		0	0.33
+		17.77	0.33
+		18.44	0
+		25.99	0
+		26.65	0.33
+		44.42	0.33
+		44.42	4.33
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113663
+	:Bedslope 0.0253
+	:SurveyPoints
+		0	4.15
+		0	0.15
+		8.07	0.15
+		8.37	0
+		11.8	0
+		12.1	0.15
+		20.17	0.15
+		20.17	4.15
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113664
+	:Bedslope 0.00107
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		12.84	0.24
+		13.32	0
+		18.77	0
+		19.25	0.24
+		32.09	0.24
+		32.09	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113666
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.37
+		0	0.37
+		19.9	0.37
+		20.64	0
+		29.1	0
+		29.85	0.37
+		49.74	0.37
+		49.74	4.37
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113667
+	:Bedslope 0.00788
+	:SurveyPoints
+		0	4.15
+		0	0.15
+		7.85	0.15
+		8.15	0
+		11.48	0
+		11.78	0.15
+		19.63	0.15
+		19.63	4.15
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113669
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.52
+		0	0.52
+		27.93	0.52
+		28.97	0
+		40.84	0
+		41.89	0.52
+		69.81	0.52
+		69.81	4.52
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113672
+	:Bedslope 0.00344
+	:SurveyPoints
+		0	4.15
+		0	0.15
+		8.01	0.15
+		8.31	0
+		11.72	0
+		12.02	0.15
+		20.03	0.15
+		20.03	4.15
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06111885 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113673
+	:Bedslope 0.0343
+	:SurveyPoints
+		0	4.15
+		0	0.15
+		8.06	0.15
+		8.36	0
+		11.78	0
+		12.08	0.15
+		20.14	0.15
+		20.14	4.15
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113675
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.46
+		0	0.46
+		24.27	0.46
+		25.18	0
+		35.5	0
+		36.41	0.46
+		60.68	0.46
+		60.68	4.46
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113677
+	:Bedslope 0.00155
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.27	0.19
+		10.65	0
+		15.02	0
+		15.4	0.19
+		25.67	0.19
+		25.67	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03476894 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113680
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.46
+		0	0.46
+		24.32	0.46
+		25.23	0
+		35.57	0
+		36.48	0.46
+		60.81	0.46
+		60.81	4.46
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113683
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.33
+		0	1.33
+		70.79	1.33
+		73.44	0
+		103.52	0
+		106.18	1.33
+		176.96	1.33
+		176.96	5.33
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113685
+	:Bedslope 0.00625
+	:SurveyPoints
+		0	4.16
+		0	0.16
+		8.64	0.16
+		8.96	0
+		12.63	0
+		12.95	0.16
+		21.59	0.16
+		21.59	4.16
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0783588 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113686
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.53
+		0	0.53
+		28.51	0.53
+		29.58	0
+		41.7	0
+		42.76	0.53
+		71.27	0.53
+		71.27	4.53
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113688
+	:Bedslope 0.00381
+	:SurveyPoints
+		0	4.16
+		0	0.16
+		8.51	0.16
+		8.83	0
+		12.45	0
+		12.77	0.16
+		21.28	0.16
+		21.28	4.16
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06176799 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113690
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.47
+		0	0.47
+		24.94	0.47
+		25.87	0
+		36.47	0
+		37.41	0.47
+		62.34	0.47
+		62.34	4.47
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113691
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.46
+		0	0.46
+		24.55	0.46
+		25.47	0
+		35.9	0
+		36.82	0.46
+		61.37	0.46
+		61.37	4.46
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113693
+	:Bedslope 0.006
+	:SurveyPoints
+		0	4.16
+		0	0.16
+		8.78	0.16
+		9.1	0
+		12.83	0
+		13.16	0.16
+		21.94	0.16
+		21.94	4.16
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07595601 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113694
+	:Bedslope 0.01476
+	:SurveyPoints
+		0	4.17
+		0	0.17
+		8.97	0.17
+		9.31	0
+		13.12	0
+		13.45	0.17
+		22.42	0.17
+		22.42	4.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113695
+	:Bedslope 0.00252
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.3	0.29
+		15.88	0
+		22.38	0
+		22.96	0.29
+		38.26	0.29
+		38.26	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03397594 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113696
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.31
+		0	1.31
+		70.09	1.31
+		72.72	0
+		102.51	0
+		105.14	1.31
+		175.24	1.31
+		175.24	5.31
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113697
+	:Bedslope 0.00418
+	:SurveyPoints
+		0	4.16
+		0	0.16
+		8.57	0.16
+		8.89	0
+		12.53	0
+		12.85	0.16
+		21.41	0.16
+		21.41	4.16
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06443002 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113700
+	:Bedslope 0.00101
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		15.83	0.3
+		16.42	0
+		23.15	0
+		23.74	0.3
+		39.57	0.3
+		39.57	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113701
+	:Bedslope 0.00418
+	:SurveyPoints
+		0	4.13
+		0	0.13
+		6.76	0.13
+		7.01	0
+		9.89	0
+		10.14	0.13
+		16.9	0.13
+		16.9	4.13
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0754448 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113703
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.31
+		0	1.31
+		69.93	1.31
+		72.55	0
+		102.27	0
+		104.89	1.31
+		174.82	1.31
+		174.82	5.31
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113705
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		16.1	0.3
+		16.7	0
+		23.55	0
+		24.15	0.3
+		40.25	0.3
+		40.25	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113707
+	:Bedslope 0.00108
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.43	0.29
+		16.01	0
+		22.56	0
+		23.14	0.29
+		38.57	0.29
+		38.57	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113710
+	:Bedslope 0.00252
+	:SurveyPoints
+		0	4.23
+		0	0.23
+		12.38	0.23
+		12.84	0
+		18.1	0
+		18.57	0.23
+		30.94	0.23
+		30.94	4.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03913844 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113713
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.54
+		0	0.54
+		28.86	0.54
+		29.94	0
+		42.21	0
+		43.29	0.54
+		72.16	0.54
+		72.16	4.54
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113717
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.39
+		0	0.39
+		20.69	0.39
+		21.47	0
+		30.26	0
+		31.04	0.39
+		51.73	0.39
+		51.73	4.39
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113720
+	:Bedslope 0.00146
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		16.13	0.3
+		16.73	0
+		23.59	0
+		24.19	0.3
+		40.32	0.3
+		40.32	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113721
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.54
+		0	0.54
+		29.03	0.54
+		30.12	0
+		42.45	0
+		43.54	0.54
+		72.57	0.54
+		72.57	4.54
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113723
+	:Bedslope 0.00634
+	:SurveyPoints
+		0	4.17
+		0	0.17
+		8.8	0.17
+		9.13	0
+		12.87	0
+		13.2	0.17
+		22.01	0.17
+		22.01	4.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07791789 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113724
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.32
+		0	0.32
+		17.05	0.32
+		17.69	0
+		24.93	0
+		25.57	0.32
+		42.62	0.32
+		42.62	4.32
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113730
+	:Bedslope 0.00457
+	:SurveyPoints
+		0	4.18
+		0	0.18
+		9.84	0.18
+		10.21	0
+		14.4	0
+		14.77	0.18
+		24.61	0.18
+		24.61	4.18
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06139984 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113731
+	:Bedslope 0.00562
+	:SurveyPoints
+		0	4.14
+		0	0.14
+		7.6	0.14
+		7.88	0
+		11.11	0
+		11.4	0.14
+		18.99	0.14
+		18.99	4.14
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113733
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.55
+		0	0.55
+		29.2	0.55
+		30.3	0
+		42.71	0
+		43.81	0.55
+		73.01	0.55
+		73.01	4.55
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113736
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.31
+		0	1.31
+		69.8	1.31
+		72.42	0
+		102.08	0
+		104.7	1.31
+		174.5	1.31
+		174.5	5.31
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113738
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.33
+		0	0.33
+		17.54	0.33
+		18.2	0
+		25.65	0
+		26.31	0.33
+		43.85	0.33
+		43.85	4.33
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113739
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		15.15	0.28
+		15.71	0
+		22.15	0
+		22.72	0.28
+		37.87	0.28
+		37.87	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113741
+	:Bedslope 0.00186
+	:SurveyPoints
+		0	4.5
+		0	0.5
+		26.47	0.5
+		27.47	0
+		38.72	0
+		39.71	0.5
+		66.18	0.5
+		66.18	4.5
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113742
+	:Bedslope 0.00393
+	:SurveyPoints
+		0	4.14
+		0	0.14
+		7.73	0.14
+		8.02	0
+		11.3	0
+		11.59	0.14
+		19.31	0.14
+		19.31	4.14
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06692091 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113743
+	:Bedslope 0.00446
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.09	0.19
+		10.47	0
+		14.76	0
+		15.14	0.19
+		25.23	0.19
+		25.23	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05966148 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113746
+	:Bedslope 0.00773
+	:SurveyPoints
+		0	4.12
+		0	0.12
+		6.66	0.12
+		6.91	0
+		9.74	0
+		9.99	0.12
+		16.65	0.12
+		16.65	4.12
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113747
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.55
+		0	0.55
+		29.51	0.55
+		30.61	0
+		43.15	0
+		44.26	0.55
+		73.77	0.55
+		73.77	4.55
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113748
+	:Bedslope 0.00266
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.72	0.22
+		12.15	0
+		17.13	0
+		17.57	0.22
+		29.29	0.22
+		29.29	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04171307 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113753
+	:Bedslope 0.0054
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.42	0.2
+		10.82	0
+		15.25	0
+		15.64	0.2
+		26.06	0.2
+		26.06	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06424299 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113754
+	:Bedslope 0.00205
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		15.96	0.3
+		16.56	0
+		23.34	0
+		23.94	0.3
+		39.89	0.3
+		39.89	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02980156 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113755
+	:Bedslope 0.00197
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		12.63	0.24
+		13.1	0
+		18.47	0
+		18.94	0.24
+		31.57	0.24
+		31.57	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03414798 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113756
+	:Bedslope 0.00636
+	:SurveyPoints
+		0	4.23
+		0	0.23
+		12.19	0.23
+		12.65	0
+		17.83	0
+		18.29	0.23
+		30.49	0.23
+		30.49	4.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0628006 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113759
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.35
+		0	0.35
+		18.52	0.35
+		19.22	0
+		27.09	0
+		27.78	0.35
+		46.3	0.35
+		46.3	4.35
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113760
+	:Bedslope 0.00112
+	:SurveyPoints
+		0	4.35
+		0	0.35
+		18.73	0.35
+		19.43	0
+		27.39	0
+		28.09	0.35
+		46.82	0.35
+		46.82	4.35
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113762
+	:Bedslope 0.00394
+	:SurveyPoints
+		0	4.18
+		0	0.18
+		9.41	0.18
+		9.76	0
+		13.76	0
+		14.11	0.18
+		23.52	0.18
+		23.52	4.18
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05875437 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113764
+	:Bedslope 0.00547
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.5	0.2
+		10.9	0
+		15.36	0
+		15.76	0.2
+		26.26	0.2
+		26.26	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06433035 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113767
+	:Bedslope 0.00231
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		16.04	0.3
+		16.65	0
+		23.46	0
+		24.07	0.3
+		40.11	0.3
+		40.11	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03152133 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113770
+	:Bedslope 0.00515
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.31	0.19
+		10.7	0
+		15.08	0
+		15.47	0.19
+		25.78	0.19
+		25.78	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06319784 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113771
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.31
+		0	1.31
+		69.64	1.31
+		72.25	0
+		101.85	0
+		104.46	1.31
+		174.1	1.31
+		174.1	5.31
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113772
+	:Bedslope 0.00219
+	:SurveyPoints
+		0	4.48
+		0	0.48
+		25.61	0.48
+		26.57	0
+		37.45	0
+		38.41	0.48
+		64.02	0.48
+		64.02	4.48
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113774
+	:Bedslope 0.00624
+	:SurveyPoints
+		0	4.14
+		0	0.14
+		7.66	0.14
+		7.95	0
+		11.2	0
+		11.49	0.14
+		19.15	0.14
+		19.15	4.14
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113776
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.56
+		0	0.56
+		29.96	0.56
+		31.09	0
+		43.82	0
+		44.95	0.56
+		74.91	0.56
+		74.91	4.56
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113778
+	:Bedslope 0.00206
+	:SurveyPoints
+		0	4.57
+		0	0.57
+		30.14	0.57
+		31.27	0
+		44.08	0
+		45.21	0.57
+		75.35	0.57
+		75.35	4.57
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113782
+	:Bedslope 0.00914
+	:SurveyPoints
+		0	4.13
+		0	0.13
+		6.88	0.13
+		7.13	0
+		10.06	0
+		10.31	0.13
+		17.19	0.13
+		17.19	4.13
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113783
+	:Bedslope 0.00726
+	:SurveyPoints
+		0	4.16
+		0	0.16
+		8.7	0.16
+		9.03	0
+		12.73	0
+		13.05	0.16
+		21.75	0.16
+		21.75	4.16
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113785
+	:Bedslope 0.00764
+	:SurveyPoints
+		0	4.17
+		0	0.17
+		9.32	0.17
+		9.67	0
+		13.62	0
+		13.97	0.17
+		23.29	0.17
+		23.29	4.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113789
+	:Bedslope 0.00497
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.49	0.22
+		11.92	0
+		16.81	0
+		17.24	0.22
+		28.73	0.22
+		28.73	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05775579 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113790
+	:Bedslope 0.00179
+	:SurveyPoints
+		0	5.3
+		0	1.3
+		69.45	1.3
+		72.05	0
+		101.57	0
+		104.17	1.3
+		173.62	1.3
+		173.62	5.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113791
+	:Bedslope 0.00575
+	:SurveyPoints
+		0	4.18
+		0	0.18
+		9.72	0.18
+		10.08	0
+		14.21	0
+		14.58	0.18
+		24.3	0.18
+		24.3	4.18
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0694618 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113793
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.37
+		0	0.37
+		19.63	0.37
+		20.36	0
+		28.7	0
+		29.44	0.37
+		49.06	0.37
+		49.06	4.37
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113797
+	:Bedslope 0.00231
+	:SurveyPoints
+		0	4.38
+		0	0.38
+		20.04	0.38
+		20.79	0
+		29.31	0
+		30.06	0.38
+		50.1	0.38
+		50.1	4.38
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02717874 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113800
+	:Bedslope 0.00762
+	:SurveyPoints
+		0	4.17
+		0	0.17
+		9.02	0.17
+		9.36	0
+		13.19	0
+		13.53	0.17
+		22.55	0.17
+		22.55	4.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113802
+	:Bedslope 0.00201
+	:SurveyPoints
+		0	4.37
+		0	0.37
+		19.53	0.37
+		20.26	0
+		28.57	0
+		29.3	0.37
+		48.83	0.37
+		48.83	4.37
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02578909 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113806
+	:Bedslope 0.01137
+	:SurveyPoints
+		0	4.17
+		0	0.17
+		9.32	0.17
+		9.67	0
+		13.63	0
+		13.98	0.17
+		23.31	0.17
+		23.31	4.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113807
+	:Bedslope 0.00174
+	:SurveyPoints
+		0	4.37
+		0	0.37
+		19.7	0.37
+		20.44	0
+		28.81	0
+		29.55	0.37
+		49.25	0.37
+		49.25	4.37
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113808
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.39
+		0	0.39
+		20.75	0.39
+		21.53	0
+		30.35	0
+		31.13	0.39
+		51.88	0.39
+		51.88	4.39
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113812
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.35
+		0	0.35
+		18.6	0.35
+		19.3	0
+		27.21	0
+		27.91	0.35
+		46.51	0.35
+		46.51	4.35
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113813
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.3
+		0	1.3
+		69.31	1.3
+		71.91	0
+		101.36	0
+		103.96	1.3
+		173.27	1.3
+		173.27	5.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113814
+	:Bedslope 0.00305
+	:SurveyPoints
+		0	4.31
+		0	0.31
+		16.39	0.31
+		17	0
+		23.97	0
+		24.58	0.31
+		40.97	0.31
+		40.97	4.31
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03570887 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113816
+	:Bedslope 0.00102
+	:SurveyPoints
+		0	5.27
+		0	1.27
+		67.72	1.27
+		70.26	0
+		99.04	0
+		101.58	1.27
+		169.29	1.27
+		169.29	5.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113818
+	:Bedslope 0.00317
+	:SurveyPoints
+		0	4.35
+		0	0.35
+		18.82	0.35
+		19.53	0
+		27.53	0
+		28.23	0.35
+		47.05	0.35
+		47.05	4.35
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03319664 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113819
+	:Bedslope 0.00172
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.9	0.28
+		15.46	0
+		21.79	0
+		22.35	0.28
+		37.25	0.28
+		37.25	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02857509 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113821
+	:Bedslope 0.00784
+	:SurveyPoints
+		0	4.18
+		0	0.18
+		9.6	0.18
+		9.96	0
+		14.04	0
+		14.4	0.18
+		23.99	0.18
+		23.99	4.18
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113824
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.64
+		0	0.64
+		34.15	0.64
+		35.43	0
+		49.94	0
+		51.22	0.64
+		85.37	0.64
+		85.37	4.64
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113825
+	:Bedslope 0.00199
+	:SurveyPoints
+		0	4.47
+		0	0.47
+		24.82	0.47
+		25.75	0
+		36.3	0
+		37.23	0.47
+		62.05	0.47
+		62.05	4.47
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113826
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.41
+		0	0.41
+		21.7	0.41
+		22.52	0
+		31.74	0
+		32.55	0.41
+		54.26	0.41
+		54.26	4.41
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113827
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.64
+		0	0.64
+		34.05	0.64
+		35.33	0
+		49.8	0
+		51.08	0.64
+		85.13	0.64
+		85.13	4.64
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113828
+	:Bedslope 0.00455
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.83	0.22
+		12.27	0
+		17.3	0
+		17.74	0.22
+		29.57	0.22
+		29.57	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05420742 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113829
+	:Bedslope 0.00228
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		15.17	0.28
+		15.74	0
+		22.19	0
+		22.76	0.28
+		37.93	0.28
+		37.93	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03250369 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113831
+	:Bedslope 0.01715
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.05	0.21
+		11.46	0
+		16.15	0
+		16.57	0.21
+		27.61	0.21
+		27.61	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113832
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.6
+		0	0.6
+		31.93	0.6
+		33.13	0
+		46.7	0
+		47.9	0.6
+		79.83	0.6
+		79.83	4.6
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113839
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.59
+		0	0.59
+		31.59	0.59
+		32.78	0
+		46.2	0
+		47.39	0.59
+		78.98	0.59
+		78.98	4.59
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113841
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.58
+		0	0.58
+		30.83	0.58
+		31.98	0
+		45.08	0
+		46.24	0.58
+		77.06	0.58
+		77.06	4.58
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113844
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.1
+		0	1.1
+		58.49	1.1
+		60.68	0
+		85.54	0
+		87.74	1.1
+		146.23	1.1
+		146.23	5.1
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113845
+	:Bedslope 0.00416
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.31	0.27
+		14.85	0
+		20.93	0
+		21.47	0.27
+		35.78	0.27
+		35.78	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04565023 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113846
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.58
+		0	0.58
+		30.86	0.58
+		32.02	0
+		45.14	0
+		46.3	0.58
+		77.16	0.58
+		77.16	4.58
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113848
+	:Bedslope 0.00235
+	:SurveyPoints
+		0	4.45
+		0	0.45
+		23.84	0.45
+		24.73	0
+		34.87	0
+		35.76	0.45
+		59.6	0.45
+		59.6	4.45
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113849
+	:Bedslope 0.00297
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		16.23	0.3
+		16.84	0
+		23.73	0
+		24.34	0.3
+		40.57	0.3
+		40.57	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03547023 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113850
+	:Bedslope 0.00115
+	:SurveyPoints
+		0	4.49
+		0	0.49
+		26.21	0.49
+		27.19	0
+		38.33	0
+		39.31	0.49
+		65.52	0.49
+		65.52	4.49
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113854
+	:Bedslope 0.00618
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		9.91	0.19
+		10.29	0
+		14.5	0
+		14.87	0.19
+		24.79	0.19
+		24.79	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07106581 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113857
+	:Bedslope 0.00351
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.29	0.29
+		15.86	0
+		22.36	0
+		22.94	0.29
+		38.23	0.29
+		38.23	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04012147 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113858
+	:Bedslope 0.019
+	:SurveyPoints
+		0	4.23
+		0	0.23
+		12.3	0.23
+		12.76	0
+		17.99	0
+		18.45	0.23
+		30.75	0.23
+		30.75	4.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113859
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.11
+		0	1.11
+		58.94	1.11
+		61.15	0
+		86.2	0
+		88.41	1.11
+		147.35	1.11
+		147.35	5.11
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113860
+	:Bedslope 0.00819
+	:SurveyPoints
+		0	4.16
+		0	0.16
+		8.29	0.16
+		8.6	0
+		12.13	0
+		12.44	0.16
+		20.73	0.16
+		20.73	4.16
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113862
+	:Bedslope 0.00249
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		16.2	0.3
+		16.81	0
+		23.69	0
+		24.3	0.3
+		40.5	0.3
+		40.5	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03251675 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113864
+	:Bedslope 0.014
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		9.98	0.19
+		10.35	0
+		14.59	0
+		14.97	0.19
+		24.95	0.19
+		24.95	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113866
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.23
+		0	1.23
+		65.67	1.23
+		68.13	0
+		96.04	0
+		98.5	1.23
+		164.16	1.23
+		164.16	5.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113872
+	:Bedslope 0.00668
+	:SurveyPoints
+		0	4.26
+		0	0.26
+		13.85	0.26
+		14.37	0
+		20.26	0
+		20.78	0.26
+		34.63	0.26
+		34.63	4.26
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.059116 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113874
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.23
+		0	1.23
+		65.62	1.23
+		68.08	0
+		95.97	0
+		98.44	1.23
+		164.06	1.23
+		164.06	5.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113875
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.58
+		0	0.58
+		31.17	0.58
+		32.33	0
+		45.58	0
+		46.75	0.58
+		77.91	0.58
+		77.91	4.58
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113876
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.09
+		0	1.09
+		58.03	1.09
+		60.21	0
+		84.88	0
+		87.05	1.09
+		145.09	1.09
+		145.09	5.09
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113877
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.49
+		0	0.49
+		26.29	0.49
+		27.28	0
+		38.45	0
+		39.44	0.49
+		65.73	0.49
+		65.73	4.49
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113878
+	:Bedslope 0.00214
+	:SurveyPoints
+		0	4.32
+		0	0.32
+		17.33	0.32
+		17.97	0
+		25.34	0
+		25.99	0.32
+		43.31	0.32
+		43.31	4.32
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02882438 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113879
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.09
+		0	1.09
+		57.92	1.09
+		60.09	0
+		84.7	0
+		86.87	1.09
+		144.79	1.09
+		144.79	5.09
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113883
+	:Bedslope 0.02232
+	:SurveyPoints
+		0	4.14
+		0	0.14
+		7.62	0.14
+		7.9	0
+		11.14	0
+		11.42	0.14
+		19.04	0.14
+		19.04	4.14
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113884
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.59
+		0	0.59
+		31.53	0.59
+		32.71	0
+		46.11	0
+		47.29	0.59
+		78.82	0.59
+		78.82	4.59
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113888
+	:Bedslope 0.01731
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.1	0.19
+		10.48	0
+		14.77	0
+		15.15	0.19
+		25.25	0.19
+		25.25	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113890
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.06
+		0	1.06
+		56.7	1.06
+		58.83	0
+		82.92	0
+		85.05	1.06
+		141.75	1.06
+		141.75	5.06
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113892
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.06
+		0	1.06
+		56.34	1.06
+		58.45	0
+		82.39	0
+		84.51	1.06
+		140.84	1.06
+		140.84	5.06
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113893
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.23
+		0	0.23
+		12.28	0.23
+		12.74	0
+		17.96	0
+		18.42	0.23
+		30.7	0.23
+		30.7	4.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113894
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.87	0.2
+		11.28	0
+		15.9	0
+		16.31	0.2
+		27.18	0.2
+		27.18	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02688375 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113897
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.17
+		0	1.17
+		62.25	1.17
+		64.58	0
+		91.04	0
+		93.37	1.17
+		155.62	1.17
+		155.62	5.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113898
+	:Bedslope 0.00159
+	:SurveyPoints
+		0	4.38
+		0	0.38
+		20.2	0.38
+		20.96	0
+		29.55	0
+		30.3	0.38
+		50.51	0.38
+		50.51	4.38
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113899
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.17
+		0	1.17
+		62.43	1.17
+		64.78	0
+		91.31	0
+		93.65	1.17
+		156.09	1.17
+		156.09	5.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113900
+	:Bedslope 0.00886
+	:SurveyPoints
+		0	4.12
+		0	0.12
+		6.59	0.12
+		6.83	0
+		9.63	0
+		9.88	0.12
+		16.47	0.12
+		16.47	4.12
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113903
+	:Bedslope 0.00304
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.51	0.27
+		15.06	0
+		21.22	0
+		21.77	0.27
+		36.28	0.27
+		36.28	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03866299 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113905
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.11
+		0	1.11
+		59.16	1.11
+		61.38	0
+		86.52	0
+		88.74	1.11
+		147.9	1.11
+		147.9	5.11
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113908
+	:Bedslope 0.0074
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.67	0.2
+		11.07	0
+		15.61	0
+		16.01	0.2
+		26.68	0.2
+		26.68	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07404593 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113910
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.05
+		0	1.05
+		56.13	1.05
+		58.24	0
+		82.09	0
+		84.2	1.05
+		140.33	1.05
+		140.33	5.05
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113912
+	:Bedslope 0.00614
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.93	0.2
+		11.34	0
+		15.99	0
+		16.4	0.2
+		27.33	0.2
+		27.33	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06637436 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113915
+	:Bedslope 0.00512
+	:SurveyPoints
+		0	4.31
+		0	0.31
+		16.63	0.31
+		17.25	0
+		24.32	0
+		24.94	0.31
+		41.57	0.31
+		41.57	4.31
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04582532 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113916
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.14
+		0	1.14
+		60.56	1.14
+		62.83	0
+		88.57	0
+		90.84	1.14
+		151.4	1.14
+		151.4	5.14
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113917
+	:Bedslope 0.00628
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		16.01	0.3
+		16.61	0
+		23.42	0
+		24.02	0.3
+		40.03	0.3
+		40.03	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05204436 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113919
+	:Bedslope 0.00118
+	:SurveyPoints
+		0	4.53
+		0	0.53
+		28.25	0.53
+		29.31	0
+		41.31	0
+		42.37	0.53
+		70.62	0.53
+		70.62	4.53
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113922
+	:Bedslope 0.00152
+	:SurveyPoints
+		0	4.36
+		0	0.36
+		19.33	0.36
+		20.06	0
+		28.27	0
+		29	0.36
+		48.33	0.36
+		48.33	4.36
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113923
+	:Bedslope 0.00269
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.24	0.29
+		15.81	0
+		22.29	0
+		22.86	0.29
+		38.1	0.29
+		38.1	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03520047 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113924
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.05
+		0	1.05
+		55.88	1.05
+		57.97	0
+		81.72	0
+		83.82	1.05
+		139.7	1.05
+		139.7	5.05
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113925
+	:Bedslope 0.00347
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.45	0.2
+		10.84	0
+		15.28	0
+		15.67	0.2
+		26.12	0.2
+		26.12	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05142418 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113926
+	:Bedslope 0.00246
+	:SurveyPoints
+		0	4.33
+		0	0.33
+		17.38	0.33
+		18.03	0
+		25.41	0
+		26.06	0.33
+		43.44	0.33
+		43.44	4.33
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03084349 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113928
+	:Bedslope 0.00106
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		16.18	0.3
+		16.79	0
+		23.67	0
+		24.27	0.3
+		40.45	0.3
+		40.45	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113931
+	:Bedslope 0.00693
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.01	0.21
+		11.43	0
+		16.11	0
+		16.52	0.21
+		27.53	0.21
+		27.53	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07015747 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113932
+	:Bedslope 0.00503
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.58	0.22
+		12.02	0
+		16.94	0
+		17.38	0.22
+		28.96	0.22
+		28.96	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05779373 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113934
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.14
+		0	1.14
+		60.86	1.14
+		63.15	0
+		89.01	0
+		91.3	1.14
+		152.16	1.14
+		152.16	5.14
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113937
+	:Bedslope 0.00435
+	:SurveyPoints
+		0	4.23
+		0	0.23
+		12.2	0.23
+		12.66	0
+		17.84	0
+		18.3	0.23
+		30.5	0.23
+		30.5	4.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05192225 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113938
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.71
+		0	0.71
+		37.73	0.71
+		39.14	0
+		55.17	0
+		56.59	0.71
+		94.31	0.71
+		94.31	4.71
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113939
+	:Bedslope 0.00499
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.3	0.21
+		11.72	0
+		16.52	0
+		16.95	0.21
+		28.24	0.21
+		28.24	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0585343 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113942
+	:Bedslope 0.00626
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.23	0.29
+		15.8	0
+		22.28	0
+		22.85	0.29
+		38.08	0.29
+		38.08	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05371404 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113948
+	:Bedslope 0.0013
+	:SurveyPoints
+		0	4.4
+		0	0.4
+		21.2	0.4
+		22	0
+		31.01	0
+		31.81	0.4
+		53.01	0.4
+		53.01	4.4
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113950
+	:Bedslope 0.0037
+	:SurveyPoints
+		0	4.25
+		0	0.25
+		13.13	0.25
+		13.63	0
+		19.21	0
+		19.7	0.25
+		32.84	0.25
+		32.84	4.25
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04558562 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113951
+	:Bedslope 0.00286
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.95	0.28
+		15.51	0
+		21.86	0
+		22.42	0.28
+		37.37	0.28
+		37.37	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03677006 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113952
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.04
+		0	1.04
+		55.51	1.04
+		57.59	0
+		81.18	0
+		83.26	1.04
+		138.77	1.04
+		138.77	5.04
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113953
+	:Bedslope 0.00515
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.32	0.19
+		10.71	0
+		15.1	0
+		15.48	0.19
+		25.8	0.19
+		25.8	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06315422 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113955
+	:Bedslope 0.00227
+	:SurveyPoints
+		0	4.39
+		0	0.39
+		21.05	0.39
+		21.83	0
+		30.78	0
+		31.57	0.39
+		52.61	0.39
+		52.61	4.39
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02607641 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113956
+	:Bedslope 0.00117
+	:SurveyPoints
+		0	4.54
+		0	0.54
+		28.79	0.54
+		29.87	0
+		42.11	0
+		43.19	0.54
+		71.98	0.54
+		71.98	4.54
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113957
+	:Bedslope 0.00155
+	:SurveyPoints
+		0	4.32
+		0	0.32
+		17.05	0.32
+		17.69	0
+		24.94	0
+		25.57	0.32
+		42.62	0.32
+		42.62	4.32
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113963
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.52
+		0	0.52
+		27.91	0.52
+		28.96	0
+		40.83	0
+		41.87	0.52
+		69.79	0.52
+		69.79	4.52
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113964
+	:Bedslope 0.0067
+	:SurveyPoints
+		0	4.23
+		0	0.23
+		12.36	0.23
+		12.83	0
+		18.08	0
+		18.55	0.23
+		30.91	0.23
+		30.91	4.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06386594 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113966
+	:Bedslope 0.00152
+	:SurveyPoints
+		0	4.52
+		0	0.52
+		27.72	0.52
+		28.76	0
+		40.53	0
+		41.57	0.52
+		69.29	0.52
+		69.29	4.52
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113967
+	:Bedslope 0.00577
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.52	0.2
+		10.91	0
+		15.38	0
+		15.78	0.2
+		26.3	0.2
+		26.3	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06601069 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113970
+	:Bedslope 0.00145
+	:SurveyPoints
+		0	4.91
+		0	0.91
+		48.49	0.91
+		50.3	0
+		70.91	0
+		72.73	0.91
+		121.21	0.91
+		121.21	4.91
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113971
+	:Bedslope 0.001
+	:SurveyPoints
+		0	5.03
+		0	1.03
+		54.76	1.03
+		56.82	0
+		80.09	0
+		82.14	1.03
+		136.91	1.03
+		136.91	5.03
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113973
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.96
+		0	0.96
+		51.13	0.96
+		53.05	0
+		74.78	0
+		76.7	0.96
+		127.83	0.96
+		127.83	4.96
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113975
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.91
+		0	0.91
+		48.34	0.91
+		50.15	0
+		70.7	0
+		72.51	0.91
+		120.85	0.91
+		120.85	4.91
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113976
+	:Bedslope 0.0031
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		15.14	0.28
+		15.71	0
+		22.14	0
+		22.71	0.28
+		37.85	0.28
+		37.85	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0379544 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113978
+	:Bedslope 0.00306
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.51	0.27
+		15.06	0
+		21.23	0
+		21.77	0.27
+		36.28	0.27
+		36.28	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03878721 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113979
+	:Bedslope 0.00338
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.19	0.21
+		11.61	0
+		16.36	0
+		16.78	0.21
+		27.97	0.21
+		27.97	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0484822 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113980
+	:Bedslope 0.00332
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.21	0.29
+		15.78	0
+		22.24	0
+		22.81	0.29
+		38.01	0.29
+		38.01	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03916555 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113981
+	:Bedslope 0.00683
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.6	0.27
+		15.15	0
+		21.35	0
+		21.9	0.27
+		36.5	0.27
+		36.5	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05771658 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113986
+	:Bedslope 0.00379
+	:SurveyPoints
+		0	4.23
+		0	0.23
+		12.21	0.23
+		12.67	0
+		17.86	0
+		18.31	0.23
+		30.52	0.23
+		30.52	4.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04843932 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113988
+	:Bedslope 0.00105
+	:SurveyPoints
+		0	4.5
+		0	0.5
+		26.55	0.5
+		27.55	0
+		38.83	0
+		39.83	0.5
+		66.38	0.5
+		66.38	4.5
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113989
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.87
+		0	0.87
+		46.57	0.87
+		48.32	0
+		68.11	0
+		69.85	0.87
+		116.42	0.87
+		116.42	4.87
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113991
+	:Bedslope 0.00471
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		16.12	0.3
+		16.72	0
+		23.57	0
+		24.18	0.3
+		40.3	0.3
+		40.3	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04486972 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113993
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.88
+		0	0.88
+		46.95	0.88
+		48.71	0
+		68.66	0
+		70.42	0.88
+		117.37	0.88
+		117.37	4.88
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113994
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.89
+		0	0.89
+		47.38	0.89
+		49.16	0
+		69.29	0
+		71.07	0.89
+		118.45	0.89
+		118.45	4.89
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_113995
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.54
+		0	0.54
+		28.73	0.54
+		29.81	0
+		42.02	0
+		43.09	0.54
+		71.82	0.54
+		71.82	4.54
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114000
+	:Bedslope 0.0062
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.41	0.21
+		11.84	0
+		16.69	0
+		17.12	0.21
+		28.53	0.21
+		28.53	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06480808 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114001
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.63
+		0	0.63
+		33.49	0.63
+		34.74	0
+		48.98	0
+		50.23	0.63
+		83.72	0.63
+		83.72	4.63
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114002
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.7
+		0	0.7
+		37.37	0.7
+		38.77	0
+		54.65	0
+		56.05	0.7
+		93.42	0.7
+		93.42	4.7
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114003
+	:Bedslope 0.00302
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.99	0.28
+		15.55	0
+		21.92	0
+		22.48	0.28
+		37.47	0.28
+		37.47	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03771399 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114006
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.51
+		0	0.51
+		27.05	0.51
+		28.06	0
+		39.56	0
+		40.57	0.51
+		67.62	0.51
+		67.62	4.51
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114007
+	:Bedslope 0.00169
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		16.18	0.3
+		16.78	0
+		23.66	0
+		24.26	0.3
+		40.44	0.3
+		40.44	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02681369 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114011
+	:Bedslope 0.0031
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.2	0.21
+		11.62	0
+		16.39	0
+		16.81	0.21
+		28.01	0.21
+		28.01	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04639024 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114015
+	:Bedslope 0.00427
+	:SurveyPoints
+		0	4.15
+		0	0.15
+		7.94	0.15
+		8.24	0
+		11.62	0
+		11.91	0.15
+		19.86	0.15
+		19.86	4.15
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06848189 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114020
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.87
+		0	0.87
+		46.3	0.87
+		48.04	0
+		67.72	0
+		69.45	0.87
+		115.76	0.87
+		115.76	4.87
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114021
+	:Bedslope 0.00914
+	:SurveyPoints
+		0	4.15
+		0	0.15
+		7.82	0.15
+		8.11	0
+		11.44	0
+		11.73	0.15
+		19.55	0.15
+		19.55	4.15
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114023
+	:Bedslope 0.00392
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		9.97	0.19
+		10.35	0
+		14.58	0
+		14.96	0.19
+		24.93	0.19
+		24.93	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05637849 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114025
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.48
+		0	0.48
+		25.61	0.48
+		26.57	0
+		37.46	0
+		38.42	0.48
+		64.03	0.48
+		64.03	4.48
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114027
+	:Bedslope 0.00101
+	:SurveyPoints
+		0	4.32
+		0	0.32
+		17.27	0.32
+		17.91	0
+		25.25	0
+		25.9	0.32
+		43.17	0.32
+		43.17	4.32
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114028
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.41
+		0	0.41
+		21.85	0.41
+		22.67	0
+		31.95	0
+		32.77	0.41
+		54.62	0.41
+		54.62	4.41
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114029
+	:Bedslope 0.00302
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.73	0.29
+		16.32	0
+		23	0
+		23.59	0.29
+		39.32	0.29
+		39.32	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03652129 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114030
+	:Bedslope 0.15759
+	:SurveyPoints
+		0	4.1
+		0	0.1
+		3.88	0.1
+		4.08	0
+		5.62	0
+		5.82	0.1
+		9.7	0.1
+		9.7	4.1
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114031
+	:Bedslope 0.03041
+	:SurveyPoints
+		0	4.15
+		0	0.15
+		8.21	0.15
+		8.52	0
+		12.01	0
+		12.31	0.15
+		20.52	0.15
+		20.52	4.15
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114032
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.75
+		0	0.75
+		40.15	0.75
+		41.66	0
+		58.72	0
+		60.23	0.75
+		100.38	0.75
+		100.38	4.75
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114035
+	:Bedslope 0.02847
+	:SurveyPoints
+		0	4.1
+		0	0.1
+		4.72	0.1
+		4.92	0
+		6.88	0
+		7.08	0.1
+		11.8	0.1
+		11.8	4.1
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114036
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.72
+		0	0.72
+		38.21	0.72
+		39.65	0
+		55.89	0
+		57.32	0.72
+		95.54	0.72
+		95.54	4.72
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114040
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.71
+		0	0.71
+		38.11	0.71
+		39.54	0
+		55.73	0
+		57.16	0.71
+		95.27	0.71
+		95.27	4.71
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114041
+	:Bedslope 0.00308
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		13.05	0.24
+		13.54	0
+		19.08	0
+		19.57	0.24
+		32.62	0.24
+		32.62	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04177645 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114043
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.52
+		0	0.52
+		27.6	0.52
+		28.64	0
+		40.37	0
+		41.4	0.52
+		69	0.52
+		69	4.52
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114044
+	:Bedslope 0.01474
+	:SurveyPoints
+		0	4.13
+		0	0.13
+		7.15	0.13
+		7.42	0
+		10.46	0
+		10.73	0.13
+		17.88	0.13
+		17.88	4.13
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114046
+	:Bedslope 0.00827
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		12.76	0.24
+		13.23	0
+		18.65	0
+		19.13	0.24
+		31.89	0.24
+		31.89	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06949641 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114047
+	:Bedslope 0.00366
+	:SurveyPoints
+		0	4.25
+		0	0.25
+		13.28	0.25
+		13.78	0
+		19.43	0
+		19.92	0.25
+		33.21	0.25
+		33.21	4.25
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0450005 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114051
+	:Bedslope 0.02049
+	:SurveyPoints
+		0	4.18
+		0	0.18
+		9.52	0.18
+		9.88	0
+		13.92	0
+		14.28	0.18
+		23.8	0.18
+		23.8	4.18
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114052
+	:Bedslope 0.01481
+	:SurveyPoints
+		0	4.11
+		0	0.11
+		5.84	0.11
+		6.05	0
+		8.53	0
+		8.75	0.11
+		14.59	0.11
+		14.59	4.11
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114055
+	:Bedslope 0.00498
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.35	0.19
+		10.74	0
+		15.13	0
+		15.52	0.19
+		25.87	0.19
+		25.87	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06200142 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114056
+	:Bedslope 0.00733
+	:SurveyPoints
+		0	4.1
+		0	0.1
+		5.44	0.1
+		5.64	0
+		7.95	0
+		8.16	0.1
+		13.59	0.1
+		13.59	4.1
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114058
+	:Bedslope 0.0173
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		12.91	0.24
+		13.39	0
+		18.88	0
+		19.36	0.24
+		32.27	0.24
+		32.27	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114061
+	:Bedslope 0.0169
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.22	0.19
+		10.61	0
+		14.95	0
+		15.33	0.19
+		25.56	0.19
+		25.56	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114063
+	:Bedslope 0.03113
+	:SurveyPoints
+		0	4.11
+		0	0.11
+		5.8	0.11
+		6.02	0
+		8.49	0
+		8.7	0.11
+		14.51	0.11
+		14.51	4.11
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114064
+	:Bedslope 0.01257
+	:SurveyPoints
+		0	4.12
+		0	0.12
+		6.64	0.12
+		6.89	0
+		9.71	0
+		9.96	0.12
+		16.6	0.12
+		16.6	4.12
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114065
+	:Bedslope 0.00117
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.65	0.2
+		11.05	0
+		15.57	0
+		15.97	0.2
+		26.62	0.2
+		26.62	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02948122 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114069
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		9.95	0.19
+		10.33	0
+		14.56	0
+		14.93	0.19
+		24.88	0.19
+		24.88	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02851302 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114070
+	:Bedslope 0.00477
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.39	0.21
+		11.82	0
+		16.65	0
+		17.08	0.21
+		28.47	0.21
+		28.47	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05692404 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114073
+	:Bedslope 0.00344
+	:SurveyPoints
+		0	4.31
+		0	0.31
+		16.43	0.31
+		17.04	0
+		24.03	0
+		24.64	0.31
+		41.07	0.31
+		41.07	4.31
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03786379 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114075
+	:Bedslope 0.01048
+	:SurveyPoints
+		0	4.25
+		0	0.25
+		13.19	0.25
+		13.69	0
+		19.3	0
+		19.79	0.25
+		32.98	0.25
+		32.98	4.25
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07648964 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114076
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.71
+		0	0.71
+		37.67	0.71
+		39.08	0
+		55.1	0
+		56.51	0.71
+		94.18	0.71
+		94.18	4.71
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114077
+	:Bedslope 0.00741
+	:SurveyPoints
+		0	4.18
+		0	0.18
+		9.62	0.18
+		9.98	0
+		14.06	0
+		14.42	0.18
+		24.04	0.18
+		24.04	4.18
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07941678 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114080
+	:Bedslope 0.0339
+	:SurveyPoints
+		0	4.18
+		0	0.18
+		9.56	0.18
+		9.92	0
+		13.98	0
+		14.34	0.18
+		23.9	0.18
+		23.9	4.18
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114081
+	:Bedslope 0.02604
+	:SurveyPoints
+		0	4.13
+		0	0.13
+		7.16	0.13
+		7.43	0
+		10.47	0
+		10.74	0.13
+		17.89	0.13
+		17.89	4.13
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114084
+	:Bedslope 0.0056
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.92	0.28
+		15.48	0
+		21.83	0
+		22.39	0.28
+		37.31	0.28
+		37.31	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05150471 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114085
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.44
+		0	0.44
+		23.72	0.44
+		24.61	0
+		34.69	0
+		35.58	0.44
+		59.3	0.44
+		59.3	4.44
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114088
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.38
+		0	0.38
+		20.16	0.38
+		20.92	0
+		29.48	0
+		30.24	0.38
+		50.4	0.38
+		50.4	4.38
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114089
+	:Bedslope 0.01694
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.11	0.19
+		10.49	0
+		14.78	0
+		15.16	0.19
+		25.27	0.19
+		25.27	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114091
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.63
+		0	0.63
+		33.71	0.63
+		34.98	0
+		49.31	0
+		50.57	0.63
+		84.28	0.63
+		84.28	4.63
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114094
+	:Bedslope 0.00501
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		12.84	0.24
+		13.33	0
+		18.78	0
+		19.27	0.24
+		32.11	0.24
+		32.11	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05384337 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114096
+	:Bedslope 0.00247
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.01	0.21
+		11.42	0
+		16.1	0
+		16.51	0.21
+		27.52	0.21
+		27.52	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04189828 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114097
+	:Bedslope 0.00362
+	:SurveyPoints
+		0	4.33
+		0	0.33
+		17.82	0.33
+		18.49	0
+		26.07	0
+		26.74	0.33
+		44.56	0.33
+		44.56	4.33
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03678637 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114098
+	:Bedslope 0.00586
+	:SurveyPoints
+		0	4.26
+		0	0.26
+		13.77	0.26
+		14.28	0
+		20.13	0
+		20.65	0.26
+		34.42	0.26
+		34.42	4.26
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0555978 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114099
+	:Bedslope 0.00205
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.78	0.28
+		15.33	0
+		21.61	0
+		22.17	0.28
+		36.95	0.28
+		36.95	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03136599 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114101
+	:Bedslope 0.00304
+	:SurveyPoints
+		0	4.4
+		0	0.4
+		21.14	0.4
+		21.94	0
+		30.92	0
+		31.71	0.4
+		52.86	0.4
+		52.86	4.4
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03008396 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114103
+	:Bedslope 0.00149
+	:SurveyPoints
+		0	4.41
+		0	0.41
+		21.94	0.41
+		22.77	0
+		32.09	0
+		32.91	0.41
+		54.86	0.41
+		54.86	4.41
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114105
+	:Bedslope 0.00559
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		13.01	0.24
+		13.5	0
+		19.03	0
+		19.52	0.24
+		32.53	0.24
+		32.53	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05637702 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114107
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.7
+		0	0.7
+		37.3	0.7
+		38.7	0
+		54.55	0
+		55.95	0.7
+		93.24	0.7
+		93.24	4.7
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114108
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.65
+		0	0.65
+		34.47	0.65
+		35.77	0
+		50.42	0
+		51.71	0.65
+		86.18	0.65
+		86.18	4.65
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114111
+	:Bedslope 0.00277
+	:SurveyPoints
+		0	4.35
+		0	0.35
+		18.78	0.35
+		19.49	0
+		27.47	0
+		28.17	0.35
+		46.96	0.35
+		46.96	4.35
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0310742 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114112
+	:Bedslope 0.00503
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.46	0.27
+		15	0
+		21.15	0
+		21.69	0.27
+		36.15	0.27
+		36.15	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0498488 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114114
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.66
+		0	0.66
+		35.33	0.66
+		36.65	0
+		51.66	0
+		52.99	0.66
+		88.31	0.66
+		88.31	4.66
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114115
+	:Bedslope 0.00135
+	:SurveyPoints
+		0	4.42
+		0	0.42
+		22.31	0.42
+		23.15	0
+		32.63	0
+		33.47	0.42
+		55.78	0.42
+		55.78	4.42
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114116
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.68
+		0	0.68
+		36.32	0.68
+		37.68	0
+		53.12	0
+		54.48	0.68
+		90.8	0.68
+		90.8	4.68
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114117
+	:Bedslope 0.00108
+	:SurveyPoints
+		0	4.62
+		0	0.62
+		33.22	0.62
+		34.47	0
+		48.59	0
+		49.83	0.62
+		83.05	0.62
+		83.05	4.62
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114119
+	:Bedslope 0.00942
+	:SurveyPoints
+		0	4.23
+		0	0.23
+		12.48	0.23
+		12.94	0
+		18.25	0
+		18.71	0.23
+		31.19	0.23
+		31.19	4.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07527271 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114121
+	:Bedslope 0.00288
+	:SurveyPoints
+		0	4.6
+		0	0.6
+		32.03	0.6
+		33.23	0
+		46.84	0
+		48.04	0.6
+		80.07	0.6
+		80.07	4.6
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114122
+	:Bedslope 0.00142
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		15.07	0.28
+		15.64	0
+		22.04	0
+		22.61	0.28
+		37.68	0.28
+		37.68	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0257646 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114128
+	:Bedslope 0.00229
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.4	0.27
+		14.94	0
+		21.06	0
+		21.6	0.27
+		36	0.27
+		36	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03372983 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114130
+	:Bedslope 0.00153
+	:SurveyPoints
+		0	4.56
+		0	0.56
+		29.87	0.56
+		30.99	0
+		43.69	0
+		44.81	0.56
+		74.68	0.56
+		74.68	4.56
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114131
+	:Bedslope 0.00225
+	:SurveyPoints
+		0	4.44
+		0	0.44
+		23.2	0.44
+		24.07	0
+		33.93	0
+		34.8	0.44
+		58.01	0.44
+		58.01	4.44
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114132
+	:Bedslope 0.00936
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10	0.19
+		10.38	0
+		14.63	0
+		15.01	0.19
+		25.01	0.19
+		25.01	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114137
+	:Bedslope 0.00159
+	:SurveyPoints
+		0	4.33
+		0	0.33
+		17.75	0.33
+		18.42	0
+		25.96	0
+		26.63	0.33
+		44.38	0.33
+		44.38	4.33
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114139
+	:Bedslope 0.00222
+	:SurveyPoints
+		0	4.44
+		0	0.44
+		23.65	0.44
+		24.54	0
+		34.59	0
+		35.48	0.44
+		59.13	0.44
+		59.13	4.44
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114141
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.44
+		0	0.44
+		23.26	0.44
+		24.13	0
+		34.02	0
+		34.89	0.44
+		58.15	0.44
+		58.15	4.44
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114143
+	:Bedslope 0.00349
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.35	0.21
+		11.77	0
+		16.59	0
+		17.02	0.21
+		28.36	0.21
+		28.36	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04881198 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114147
+	:Bedslope 0.00155
+	:SurveyPoints
+		0	4.42
+		0	0.42
+		22.15	0.42
+		22.98	0
+		32.4	0
+		33.23	0.42
+		55.38	0.42
+		55.38	4.42
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114149
+	:Bedslope 0.00245
+	:SurveyPoints
+		0	4.36
+		0	0.36
+		19.15	0.36
+		19.87	0
+		28.01	0
+		28.73	0.36
+		47.89	0.36
+		47.89	4.36
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02884531 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114151
+	:Bedslope 0.01446
+	:SurveyPoints
+		0	4.12
+		0	0.12
+		6.54	0.12
+		6.79	0
+		9.56	0
+		9.81	0.12
+		16.35	0.12
+		16.35	4.12
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114152
+	:Bedslope 0.00223
+	:SurveyPoints
+		0	4.31
+		0	0.31
+		16.43	0.31
+		17.05	0
+		24.03	0
+		24.64	0.31
+		41.07	0.31
+		41.07	4.31
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03048431 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114153
+	:Bedslope 0.0013
+	:SurveyPoints
+		0	4.32
+		0	0.32
+		17.27	0.32
+		17.92	0
+		25.26	0
+		25.9	0.32
+		43.17	0.32
+		43.17	4.32
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114154
+	:Bedslope 0.00332
+	:SurveyPoints
+		0	4.33
+		0	0.33
+		17.7	0.33
+		18.37	0
+		25.89	0
+		26.56	0.33
+		44.26	0.33
+		44.26	4.33
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03538858 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114156
+	:Bedslope 0.0106
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.25	0.21
+		11.67	0
+		16.45	0
+		16.88	0.21
+		28.13	0.21
+		28.13	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114159
+	:Bedslope 0.00135
+	:SurveyPoints
+		0	4.55
+		0	0.55
+		29.59	0.55
+		30.7	0
+		43.28	0
+		44.39	0.55
+		73.98	0.55
+		73.98	4.55
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114161
+	:Bedslope 0.00591
+	:SurveyPoints
+		0	4.16
+		0	0.16
+		8.61	0.16
+		8.94	0
+		12.6	0
+		12.92	0.16
+		21.54	0.16
+		21.54	4.16
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07632308 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114164
+	:Bedslope 0.00412
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		12.83	0.24
+		13.31	0
+		18.76	0
+		19.24	0.24
+		32.07	0.24
+		32.07	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04886769 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114165
+	:Bedslope 0.00578
+	:SurveyPoints
+		0	4.25
+		0	0.25
+		13.22	0.25
+		13.71	0
+		19.33	0
+		19.82	0.25
+		33.04	0.25
+		33.04	4.25
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0567396 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114170
+	:Bedslope 0.00967
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.43	0.29
+		16.01	0
+		22.57	0
+		23.15	0.29
+		38.58	0.29
+		38.58	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06618728 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114171
+	:Bedslope 0.00176
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.71	0.28
+		15.26	0
+		21.51	0
+		22.06	0.28
+		36.76	0.28
+		36.76	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02915926 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114173
+	:Bedslope 0.01665
+	:SurveyPoints
+		0	4.17
+		0	0.17
+		8.88	0.17
+		9.21	0
+		12.98	0
+		13.31	0.17
+		22.19	0.17
+		22.19	4.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114176
+	:Bedslope 0.0039
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.39	0.21
+		11.81	0
+		16.65	0
+		17.08	0.21
+		28.47	0.21
+		28.47	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0514749 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114178
+	:Bedslope 0.00467
+	:SurveyPoints
+		0	4.15
+		0	0.15
+		7.97	0.15
+		8.27	0
+		11.66	0
+		11.96	0.15
+		19.93	0.15
+		19.93	4.15
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07143673 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114179
+	:Bedslope 0.00112
+	:SurveyPoints
+		0	4.43
+		0	0.43
+		22.83	0.43
+		23.68	0
+		33.38	0
+		34.24	0.43
+		57.07	0.43
+		57.07	4.43
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114180
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.5	0.27
+		15.05	0
+		21.21	0
+		21.76	0.27
+		36.26	0.27
+		36.26	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114181
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.39
+		0	0.39
+		21.03	0.39
+		21.82	0
+		30.76	0
+		31.55	0.39
+		52.58	0.39
+		52.58	4.39
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114182
+	:Bedslope 0.0062
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.68	0.2
+		11.08	0
+		15.62	0
+		16.02	0.2
+		26.7	0.2
+		26.7	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06774305 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114183
+	:Bedslope 0.00605
+	:SurveyPoints
+		0	4.12
+		0	0.12
+		6.66	0.12
+		6.91	0
+		9.74	0
+		9.99	0.12
+		16.65	0.12
+		16.65	4.12
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114184
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.39
+		0	0.39
+		20.81	0.39
+		21.59	0
+		30.44	0
+		31.22	0.39
+		52.03	0.39
+		52.03	4.39
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114186
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.35
+		0	0.35
+		18.87	0.35
+		19.58	0
+		27.6	0
+		28.31	0.35
+		47.18	0.35
+		47.18	4.35
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114187
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.33
+		0	0.33
+		17.86	0.33
+		18.53	0
+		26.11	0
+		26.78	0.33
+		44.64	0.33
+		44.64	4.33
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114188
+	:Bedslope 0.00856
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.11	0.19
+		10.49	0
+		14.79	0
+		15.17	0.19
+		25.28	0.19
+		25.28	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114189
+	:Bedslope 0.00493
+	:SurveyPoints
+		0	4.14
+		0	0.14
+		7.5	0.14
+		7.79	0
+		10.98	0
+		11.26	0.14
+		18.76	0.14
+		18.76	4.14
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07642139 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114191
+	:Bedslope 0.0027
+	:SurveyPoints
+		0	4.23
+		0	0.23
+		12.05	0.23
+		12.5	0
+		17.62	0
+		18.07	0.23
+		30.12	0.23
+		30.12	4.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04125277 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114192
+	:Bedslope 0.0013
+	:SurveyPoints
+		0	4.32
+		0	0.32
+		16.88	0.32
+		17.52	0
+		24.69	0
+		25.32	0.32
+		42.21	0.32
+		42.21	4.32
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114194
+	:Bedslope 0.00694
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.02	0.19
+		10.39	0
+		14.65	0
+		15.03	0.19
+		25.04	0.19
+		25.04	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07478917 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114196
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.61
+		0	0.61
+		32.39	0.61
+		33.61	0
+		47.37	0
+		48.59	0.61
+		80.98	0.61
+		80.98	4.61
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114198
+	:Bedslope 0.00298
+	:SurveyPoints
+		0	4.15
+		0	0.15
+		7.91	0.15
+		8.21	0
+		11.57	0
+		11.87	0.15
+		19.78	0.15
+		19.78	4.15
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.057358 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114201
+	:Bedslope 0.01154
+	:SurveyPoints
+		0	4.14
+		0	0.14
+		7.27	0.14
+		7.55	0
+		10.64	0
+		10.91	0.14
+		18.18	0.14
+		18.18	4.14
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114202
+	:Bedslope 0.00221
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.98	0.22
+		12.43	0
+		17.52	0
+		17.96	0.22
+		29.94	0.22
+		29.94	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03746674 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114205
+	:Bedslope 0.00148
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.65	0.29
+		16.23	0
+		22.88	0
+		23.47	0.29
+		39.11	0.29
+		39.11	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02565696 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114207
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.55
+		0	0.55
+		29.34	0.55
+		30.44	0
+		42.91	0
+		44.01	0.55
+		73.36	0.55
+		73.36	4.55
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114208
+	:Bedslope 0.0023
+	:SurveyPoints
+		0	4.36
+		0	0.36
+		19.43	0.36
+		20.16	0
+		28.42	0
+		29.15	0.36
+		48.58	0.36
+		48.58	4.36
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02768065 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114210
+	:Bedslope 0.00156
+	:SurveyPoints
+		0	4.41
+		0	0.41
+		21.95	0.41
+		22.77	0
+		32.1	0
+		32.92	0.41
+		54.86	0.41
+		54.86	4.41
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114211
+	:Bedslope 0.00592
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		9.99	0.19
+		10.37	0
+		14.61	0
+		14.99	0.19
+		24.98	0.19
+		24.98	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06919856 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114212
+	:Bedslope 0.00391
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.91	0.22
+		12.35	0
+		17.41	0
+		17.86	0.22
+		29.77	0.22
+		29.77	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0500287 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114213
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.63	0.22
+		12.07	0
+		17.02	0
+		17.45	0.22
+		29.09	0.22
+		29.09	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02569362 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114215
+	:Bedslope 0.0017
+	:SurveyPoints
+		0	4.46
+		0	0.46
+		24.62	0.46
+		25.55	0
+		36.01	0
+		36.94	0.46
+		61.56	0.46
+		61.56	4.46
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114216
+	:Bedslope 0.00156
+	:SurveyPoints
+		0	4.37
+		0	0.37
+		19.95	0.37
+		20.7	0
+		29.18	0
+		29.93	0.37
+		49.88	0.37
+		49.88	4.37
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114217
+	:Bedslope 0.00126
+	:SurveyPoints
+		0	4.44
+		0	0.44
+		23.41	0.44
+		24.29	0
+		34.23	0
+		35.11	0.44
+		58.52	0.44
+		58.52	4.44
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114218
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.68
+		0	0.68
+		36.46	0.68
+		37.82	0
+		53.32	0
+		54.68	0.68
+		91.14	0.68
+		91.14	4.68
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114219
+	:Bedslope 0.00134
+	:SurveyPoints
+		0	4.32
+		0	0.32
+		17.12	0.32
+		17.76	0
+		25.04	0
+		25.68	0.32
+		42.8	0.32
+		42.8	4.32
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114221
+	:Bedslope 0.00589
+	:SurveyPoints
+		0	4.17
+		0	0.17
+		9.05	0.17
+		9.39	0
+		13.23	0
+		13.57	0.17
+		22.62	0.17
+		22.62	4.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0737474 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114222
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.67
+		0	0.67
+		35.8	0.67
+		37.14	0
+		52.35	0
+		53.7	0.67
+		89.5	0.67
+		89.5	4.67
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114224
+	:Bedslope 0.00646
+	:SurveyPoints
+		0	4.25
+		0	0.25
+		13.23	0.25
+		13.73	0
+		19.36	0
+		19.85	0.25
+		33.09	0.25
+		33.09	4.25
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05993005 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114227
+	:Bedslope 0.0023
+	:SurveyPoints
+		0	4.25
+		0	0.25
+		13.23	0.25
+		13.72	0
+		19.34	0
+		19.84	0.25
+		33.07	0.25
+		33.07	4.25
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03577487 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114229
+	:Bedslope 0.00423
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.79	0.22
+		12.23	0
+		17.24	0
+		17.68	0.22
+		29.47	0.22
+		29.47	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05238228 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114230
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.94	0.22
+		12.39	0
+		17.46	0
+		17.91	0.22
+		29.85	0.22
+		29.85	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02525455 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114236
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.54
+		0	0.54
+		28.71	0.54
+		29.78	0
+		41.98	0
+		43.06	0.54
+		71.77	0.54
+		71.77	4.54
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114237
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.66
+		0	0.66
+		35.17	0.66
+		36.49	0
+		51.43	0
+		52.75	0.66
+		87.92	0.66
+		87.92	4.66
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114238
+	:Bedslope 0.00179
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.48	0.27
+		15.02	0
+		21.18	0
+		21.72	0.27
+		36.2	0.27
+		36.2	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02970834 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114239
+	:Bedslope 0.0019
+	:SurveyPoints
+		0	4.38
+		0	0.38
+		20.21	0.38
+		20.97	0
+		29.56	0
+		30.31	0.38
+		50.52	0.38
+		50.52	4.38
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114240
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.31
+		0	0.31
+		16.63	0.31
+		17.25	0
+		24.32	0
+		24.95	0.31
+		41.58	0.31
+		41.58	4.31
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114241
+	:Bedslope 0.00168
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.44	0.29
+		16.01	0
+		22.57	0
+		23.15	0.29
+		38.59	0.29
+		38.59	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02758341 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114243
+	:Bedslope 0.00131
+	:SurveyPoints
+		0	4.55
+		0	0.55
+		29.45	0.55
+		30.55	0
+		43.06	0
+		44.17	0.55
+		73.61	0.55
+		73.61	4.55
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114245
+	:Bedslope 0.00541
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.04	0.19
+		10.41	0
+		14.68	0
+		15.06	0.19
+		25.09	0.19
+		25.09	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06594549 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114248
+	:Bedslope 0.00483
+	:SurveyPoints
+		0	4.23
+		0	0.23
+		12.34	0.23
+		12.8	0
+		18.05	0
+		18.51	0.23
+		30.85	0.23
+		30.85	4.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05429869 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114250
+	:Bedslope 0.00478
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.09	0.19
+		10.47	0
+		14.76	0
+		15.13	0.19
+		25.22	0.19
+		25.22	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06177159 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114254
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.52
+		0	0.52
+		27.76	0.52
+		28.8	0
+		40.59	0
+		41.64	0.52
+		69.39	0.52
+		69.39	4.52
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114256
+	:Bedslope 0.00172
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.99	0.28
+		15.55	0
+		21.92	0
+		22.48	0.28
+		37.47	0.28
+		37.47	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02846452 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114257
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.65
+		0	0.65
+		34.71	0.65
+		36.02	0
+		50.77	0
+		52.07	0.65
+		86.79	0.65
+		86.79	4.65
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114258
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11	0.21
+		11.41	0
+		16.08	0
+		16.5	0.21
+		27.49	0.21
+		27.49	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02667745 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114259
+	:Bedslope 0.00573
+	:SurveyPoints
+		0	4.16
+		0	0.16
+		8.8	0.16
+		9.13	0
+		12.87	0
+		13.2	0.16
+		21.99	0.16
+		21.99	4.16
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07410106 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114261
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.51
+		0	0.51
+		27.43	0.51
+		28.46	0
+		40.12	0
+		41.15	0.51
+		68.58	0.51
+		68.58	4.51
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114262
+	:Bedslope 0.00444
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		12.85	0.24
+		13.33	0
+		18.79	0
+		19.27	0.24
+		32.12	0.24
+		32.12	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05067684 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114265
+	:Bedslope 0.00118
+	:SurveyPoints
+		0	4.23
+		0	0.23
+		12.22	0.23
+		12.68	0
+		17.88	0
+		18.34	0.23
+		30.56	0.23
+		30.56	4.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0270067 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114267
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.64
+		0	0.64
+		34.29	0.64
+		35.57	0
+		50.15	0
+		51.43	0.64
+		85.72	0.64
+		85.72	4.64
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114268
+	:Bedslope 0.00122
+	:SurveyPoints
+		0	4.35
+		0	0.35
+		18.49	0.35
+		19.18	0
+		27.04	0
+		27.73	0.35
+		46.22	0.35
+		46.22	4.35
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114271
+	:Bedslope 0.00282
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.18	0.27
+		14.71	0
+		20.74	0
+		21.27	0.27
+		35.45	0.27
+		35.45	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03781775 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114273
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.49
+		0	0.49
+		26.2	0.49
+		27.18	0
+		38.32	0
+		39.3	0.49
+		65.5	0.49
+		65.5	4.49
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114276
+	:Bedslope 0.00466
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.85	0.2
+		11.26	0
+		15.87	0
+		16.27	0.2
+		27.12	0.2
+		27.12	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05811456 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114277
+	:Bedslope 0.00742
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.39	0.19
+		10.78	0
+		15.2	0
+		15.59	0.19
+		25.98	0.19
+		25.98	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07546633 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114279
+	:Bedslope 0.00546
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		13.06	0.24
+		13.55	0
+		19.1	0
+		19.59	0.24
+		32.65	0.24
+		32.65	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05558679 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114280
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.33
+		0	0.33
+		17.87	0.33
+		18.54	0
+		26.13	0
+		26.8	0.33
+		44.67	0.33
+		44.67	4.33
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114282
+	:Bedslope 0.00101
+	:SurveyPoints
+		0	4.6
+		0	0.6
+		32.1	0.6
+		33.31	0
+		46.95	0
+		48.15	0.6
+		80.25	0.6
+		80.25	4.6
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114283
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.37
+		0	0.37
+		19.5	0.37
+		20.23	0
+		28.52	0
+		29.25	0.37
+		48.74	0.37
+		48.74	4.37
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114284
+	:Bedslope 0.00137
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.16	0.27
+		14.69	0
+		20.71	0
+		21.24	0.27
+		35.41	0.27
+		35.41	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02637987 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114285
+	:Bedslope 0.00118
+	:SurveyPoints
+		0	4.53
+		0	0.53
+		28.09	0.53
+		29.15	0
+		41.09	0
+		42.14	0.53
+		70.23	0.53
+		70.23	4.53
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114289
+	:Bedslope 0.00365
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.75	0.22
+		12.19	0
+		17.18	0
+		17.62	0.22
+		29.36	0.22
+		29.36	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04877919 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114292
+	:Bedslope 0.00384
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.21	0.21
+		11.63	0
+		16.39	0
+		16.81	0.21
+		28.02	0.21
+		28.02	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05161654 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114294
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.81	0.2
+		11.22	0
+		15.81	0
+		16.22	0.2
+		27.03	0.2
+		27.03	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02698245 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114299
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.55	0.22
+		11.99	0
+		16.89	0
+		17.33	0.22
+		28.88	0.22
+		28.88	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02581663 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114300
+	:Bedslope 0.00611
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.29	0.19
+		10.68	0
+		15.05	0
+		15.44	0.19
+		25.73	0.19
+		25.73	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06891795 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114301
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.6
+		0	0.6
+		31.86	0.6
+		33.06	0
+		46.6	0
+		47.79	0.6
+		79.66	0.6
+		79.66	4.6
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114304
+	:Bedslope 0.00778
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.71	0.29
+		16.3	0
+		22.98	0
+		23.57	0.29
+		39.28	0.29
+		39.28	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05865906 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114307
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.59
+		0	0.59
+		31.3	0.59
+		32.48	0
+		45.78	0
+		46.95	0.59
+		78.26	0.59
+		78.26	4.59
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114308
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.5
+		0	0.5
+		26.64	0.5
+		27.64	0
+		38.96	0
+		39.96	0.5
+		66.6	0.5
+		66.6	4.5
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114309
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.31
+		0	0.31
+		16.58	0.31
+		17.2	0
+		24.24	0
+		24.86	0.31
+		41.44	0.31
+		41.44	4.31
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114310
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.47
+		0	0.47
+		25.32	0.47
+		26.27	0
+		37.02	0
+		37.97	0.47
+		63.29	0.47
+		63.29	4.47
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114311
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.53
+		0	0.53
+		28.32	0.53
+		29.38	0
+		41.41	0
+		42.47	0.53
+		70.79	0.53
+		70.79	4.53
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114312
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.55
+		0	0.55
+		29.18	0.55
+		30.27	0
+		42.68	0
+		43.77	0.55
+		72.95	0.55
+		72.95	4.55
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114313
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.41
+		0	0.41
+		21.69	0.41
+		22.51	0
+		31.73	0
+		32.54	0.41
+		54.23	0.41
+		54.23	4.41
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114314
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.58
+		0	0.58
+		30.7	0.58
+		31.85	0
+		44.9	0
+		46.05	0.58
+		76.75	0.58
+		76.75	4.58
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114318
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.32
+		0	0.32
+		17.19	0.32
+		17.83	0
+		25.14	0
+		25.78	0.32
+		42.97	0.32
+		42.97	4.32
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114321
+	:Bedslope 0.00131
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.92	0.28
+		15.48	0
+		21.82	0
+		22.38	0.28
+		37.3	0.28
+		37.3	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114322
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		15.2	0.28
+		15.77	0
+		22.22	0
+		22.79	0.28
+		37.99	0.28
+		37.99	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114324
+	:Bedslope 0.00332
+	:SurveyPoints
+		0	4.23
+		0	0.23
+		12.48	0.23
+		12.94	0
+		18.25	0
+		18.71	0.23
+		31.19	0.23
+		31.19	4.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0446866 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114326
+	:Bedslope 0.00152
+	:SurveyPoints
+		0	4.23
+		0	0.23
+		12.49	0.23
+		12.96	0
+		18.27	0
+		18.74	0.23
+		31.23	0.23
+		31.23	4.23
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03020873 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114328
+	:Bedslope 0.00578
+	:SurveyPoints
+		0	4.17
+		0	0.17
+		9.1	0.17
+		9.44	0
+		13.31	0
+		13.65	0.17
+		22.75	0.17
+		22.75	4.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07277419 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114330
+	:Bedslope 0.00536
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.1	0.21
+		11.51	0
+		16.23	0
+		16.64	0.21
+		27.74	0.21
+		27.74	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06139396 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114333
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.52
+		0	0.52
+		27.65	0.52
+		28.69	0
+		40.44	0
+		41.48	0.52
+		69.13	0.52
+		69.13	4.52
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114334
+	:Bedslope 0.00146
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.62	0.27
+		15.17	0
+		21.39	0
+		21.94	0.27
+		36.56	0.27
+		36.56	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.02665621 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114338
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.5
+		0	0.5
+		26.78	0.5
+		27.79	0
+		39.17	0
+		40.17	0.5
+		66.95	0.5
+		66.95	4.5
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114339
+	:Bedslope 0.00115
+	:SurveyPoints
+		0	4.47
+		0	0.47
+		25.24	0.47
+		26.19	0
+		36.92	0
+		37.86	0.47
+		63.1	0.47
+		63.1	4.47
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114340
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.44
+		0	0.44
+		23.48	0.44
+		24.36	0
+		34.33	0
+		35.21	0.44
+		58.69	0.44
+		58.69	4.44
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114341
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.44
+		0	0.44
+		23.24	0.44
+		24.11	0
+		33.98	0
+		34.85	0.44
+		58.09	0.44
+		58.09	4.44
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114342
+	:Bedslope 0.00519
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.84	0.28
+		15.4	0
+		21.71	0
+		22.26	0.28
+		37.1	0.28
+		37.1	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04976647 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114343
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.37	0.29
+		15.95	0
+		22.49	0
+		23.06	0.29
+		38.44	0.29
+		38.44	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114344
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.43
+		0	0.43
+		22.9	0.43
+		23.76	0
+		33.49	0
+		34.35	0.43
+		57.25	0.43
+		57.25	4.43
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114346
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.35
+		0	0.35
+		18.57	0.35
+		19.26	0
+		27.16	0
+		27.85	0.35
+		46.42	0.35
+		46.42	4.35
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114348
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.38
+		0	0.38
+		20.39	0.38
+		21.15	0
+		29.82	0
+		30.58	0.38
+		50.97	0.38
+		50.97	4.38
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114349
+	:Bedslope 0.00869
+	:SurveyPoints
+		0	4.1
+		0	0.1
+		4.96	0.1
+		5.16	0
+		7.25	0
+		7.45	0.1
+		12.41	0.1
+		12.41	4.1
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114351
+	:Bedslope 0.00869
+	:SurveyPoints
+		0	4.17
+		0	0.17
+		8.93	0.17
+		9.27	0
+		13.06	0
+		13.4	0.17
+		22.33	0.17
+		22.33	4.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114352
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.25
+		0	0.25
+		13.19	0.25
+		13.69	0
+		19.29	0
+		19.79	0.25
+		32.98	0.25
+		32.98	4.25
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114355
+	:Bedslope 0.00155
+	:SurveyPoints
+		0	4.37
+		0	0.37
+		19.8	0.37
+		20.54	0
+		28.96	0
+		29.7	0.37
+		49.5	0.37
+		49.5	4.37
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114359
+	:Bedslope 0.01737
+	:SurveyPoints
+		0	4.13
+		0	0.13
+		7.03	0.13
+		7.29	0
+		10.28	0
+		10.55	0.13
+		17.58	0.13
+		17.58	4.13
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114366
+	:Bedslope 0.01523
+	:SurveyPoints
+		0	4.17
+		0	0.17
+		8.88	0.17
+		9.22	0
+		12.99	0
+		13.32	0.17
+		22.21	0.17
+		22.21	4.17
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114367
+	:Bedslope 0.00285
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.56	0.27
+		15.1	0
+		21.29	0
+		21.83	0.27
+		36.39	0.27
+		36.39	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03736079 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114370
+	:Bedslope 0.00584
+	:SurveyPoints
+		0	4.15
+		0	0.15
+		8.03	0.15
+		8.33	0
+		11.74	0
+		12.04	0.15
+		20.06	0.15
+		20.06	4.15
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0795326 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114372
+	:Bedslope 0.0049
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		12.86	0.24
+		13.34	0
+		18.81	0
+		19.29	0.24
+		32.16	0.24
+		32.16	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05319709 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114374
+	:Bedslope 0.00734
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.69	0.28
+		15.24	0
+		21.48	0
+		22.03	0.28
+		36.71	0.28
+		36.71	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05960195 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114376
+	:Bedslope 0.00525
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		16.06	0.3
+		16.66	0
+		23.49	0
+		24.09	0.3
+		40.15	0.3
+		40.15	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.04748819 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114378
+	:Bedslope 0.00712
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.7	0.22
+		12.14	0
+		17.12	0
+		17.55	0.22
+		29.26	0.22
+		29.26	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0682938 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114380
+	:Bedslope 0.02782
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.82	0.2
+		11.22	0
+		15.82	0
+		16.23	0.2
+		27.05	0.2
+		27.05	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114383
+	:Bedslope 0.00589
+	:SurveyPoints
+		0	4.3
+		0	0.3
+		15.79	0.3
+		16.38	0
+		23.09	0
+		23.69	0.3
+		39.48	0.3
+		39.48	4.3
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.05086851 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114385
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.86
+		0	0.86
+		45.91	0.86
+		47.63	0
+		67.14	0
+		68.86	0.86
+		114.77	0.86
+		114.77	4.86
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114388
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.96	0.28
+		15.52	0
+		21.88	0
+		22.44	0.28
+		37.4	0.28
+		37.4	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114390
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.76
+		0	0.76
+		40.61	0.76
+		42.13	0
+		59.39	0
+		60.92	0.76
+		101.53	0.76
+		101.53	4.76
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114394
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.4
+		0	0.4
+		21.57	0.4
+		22.38	0
+		31.54	0
+		32.35	0.4
+		53.92	0.4
+		53.92	4.4
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114396
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.56
+		0	0.56
+		29.65	0.56
+		30.77	0
+		43.37	0
+		44.48	0.56
+		74.14	0.56
+		74.14	4.56
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114397
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.56
+		0	0.56
+		29.83	0.56
+		30.94	0
+		43.62	0
+		44.74	0.56
+		74.57	0.56
+		74.57	4.56
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114400
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.62
+		0	0.62
+		32.94	0.62
+		34.17	0
+		48.17	0
+		49.41	0.62
+		82.34	0.62
+		82.34	4.62
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114402
+	:Bedslope 0.00218
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.67	0.22
+		12.11	0
+		17.07	0
+		17.51	0.22
+		29.18	0.22
+		29.18	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03785737 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114406
+	:Bedslope 0.00211
+	:SurveyPoints
+		0	4.24
+		0	0.24
+		13.01	0.24
+		13.5	0
+		19.03	0
+		19.52	0.24
+		32.53	0.24
+		32.53	4.24
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03464299 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114409
+	:Bedslope 0.00862
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.12	0.21
+		11.54	0
+		16.26	0
+		16.68	0.21
+		27.8	0.21
+		27.8	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07774539 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114412
+	:Bedslope 0.00827
+	:SurveyPoints
+		0	4.22
+		0	0.22
+		11.73	0.22
+		12.17	0
+		17.16	0
+		17.6	0.22
+		29.34	0.22
+		29.34	4.22
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.07347049 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114415
+	:Bedslope 0.00101
+	:SurveyPoints
+		0	4.49
+		0	0.49
+		26.28	0.49
+		27.27	0
+		38.44	0
+		39.43	0.49
+		65.71	0.49
+		65.71	4.49
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114417
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.28
+		0	0.28
+		14.96	0.28
+		15.52	0
+		21.88	0
+		22.44	0.28
+		37.41	0.28
+		37.41	4.28
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114418
+	:Bedslope 0.00118
+	:SurveyPoints
+		0	4.49
+		0	0.49
+		26.25	0.49
+		27.24	0
+		38.39	0
+		39.38	0.49
+		65.63	0.49
+		65.63	4.49
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114420
+	:Bedslope 0.00243
+	:SurveyPoints
+		0	4.29
+		0	0.29
+		15.72	0.29
+		16.31	0
+		22.98	0
+		23.57	0.29
+		39.29	0.29
+		39.29	4.29
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03277747 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114423
+	:Bedslope 0.00379
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.41	0.2
+		10.8	0
+		15.23	0
+		15.62	0.2
+		26.03	0.2
+		26.03	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0538582 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114426
+	:Bedslope 0.00565
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.52	0.2
+		10.91	0
+		15.38	0
+		15.78	0.2
+		26.3	0.2
+		26.3	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.06532051 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114428
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.69
+		0	0.69
+		36.85	0.69
+		38.23	0
+		53.89	0
+		55.27	0.69
+		92.12	0.69
+		92.12	4.69
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114430
+	:Bedslope 0.00256
+	:SurveyPoints
+		0	4.25
+		0	0.25
+		13.21	0.25
+		13.71	0
+		19.32	0
+		19.82	0.25
+		33.03	0.25
+		33.03	4.25
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03776763 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114432
+	:Bedslope 0.0025
+	:SurveyPoints
+		0	4.25
+		0	0.25
+		13.42	0.25
+		13.92	0
+		19.62	0
+		20.13	0.25
+		33.55	0.25
+		33.55	4.25
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0369401 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114435
+	:Bedslope 0.00199
+	:SurveyPoints
+		0	4.27
+		0	0.27
+		14.25	0.27
+		14.79	0
+		20.84	0
+		21.38	0.27
+		35.63	0.27
+		35.63	4.27
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03166093 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114437
+	:Bedslope 0.001
+	:SurveyPoints
+		0	4.48
+		0	0.48
+		25.64	0.48
+		26.6	0
+		37.49	0
+		38.46	0.48
+		64.09	0.48
+		64.09	4.48
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114442
+	:Bedslope 0.00584
+	:SurveyPoints
+		0	4.2
+		0	0.2
+		10.62	0.2
+		11.02	0
+		15.53	0
+		15.93	0.2
+		26.55	0.2
+		26.55	4.2
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.0659882 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114445
+	:Bedslope 0.0014
+	:SurveyPoints
+		0	4.37
+		0	0.37
+		19.5	0.37
+		20.23	0
+		28.52	0
+		29.25	0.37
+		48.76	0.37
+		48.76	4.37
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114447
+	:Bedslope 0.00188
+	:SurveyPoints
+		0	4.21
+		0	0.21
+		11.19	0.21
+		11.61	0
+		16.36	0
+		16.78	0.21
+		27.96	0.21
+		27.96	4.21
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03616606 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114450
+	:Bedslope 0.00175
+	:SurveyPoints
+		0	4.46
+		0	0.46
+		24.62	0.46
+		25.54	0
+		36.01	0
+		36.93	0.46
+		61.55	0.46
+		61.55	4.46
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.025 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114455
+	:Bedslope 0.00202
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.26	0.19
+		10.65	0
+		15.01	0
+		15.4	0.19
+		25.66	0.19
+		25.66	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03970098 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114458
+	:Bedslope 0.01309
+	:SurveyPoints
+		0	4.19
+		0	0.19
+		10.4	0.19
+		10.79	0
+		15.21	0
+		15.6	0.19
+		25.99	0.19
+		25.99	4.19
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.08 
+	:EndRoughnessZones
+:EndChannelProfile
+
+:ChannelProfile Chn_114460
+	:Bedslope 0.00275
+	:SurveyPoints
+		0	4.32
+		0	0.32
+		17.22	0.32
+		17.86	0
+		25.18	0
+		25.83	0.32
+		43.04	0.32
+		43.04	4.32
+		:EndSurveyPoints
+	:RoughnessZones
+		0    0.03281188 
+	:EndRoughnessZones
+:EndChannelProfile
+

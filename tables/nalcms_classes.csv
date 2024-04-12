@@ -1,0 +1,20 @@
+Value,Description,Simplified.Value,Simplified.Class
+1,Temperate or sub-polar needleleaf forest,Needleforest,5
+2,sub-polar taiga needleleaf forest,Needleforest,5
+3,Tropical or sub-tropical broadleaf evergreen forest,Needleforest,5
+4,Tropical or sub-tropical broadleaf deciduous forest,LeafForest,3
+5,Temperate or sub-polar broadleaf deciduous forest,LeafForest,3
+6,Mixed Forest,MixForest,4
+7,Tropical or sub-tropical shrubland,Shrubgrass,7
+8,Temperate or sub-polar shrubland,Shrubgrass,7
+9,Tropical or sub-tropical grassland,Shrubgrass,7
+10,Temperate or sub-polar grassland,Shrubgrass,7
+11,Sup-polar or polar shrubland-lichen-moss,Shrubgrass,7
+12,Sub-polar or polare grassland-lichen-moss,Shrubgrass,7
+13,Sub-polar or polar barren-lichen-moss,Open,6
+14,Wetland,Wetland,9
+15,Cropland,Crops,1
+16,Barren lands,Open,6
+17,Urban,Open,6
+18,Water,Water,8
+19,Snow and Ice,Glacier,2

@@ -1,0 +1,129 @@
+#-----------------------------------------------------------------
+# Raven Properties file Template. Created by Raven v3.7 w/ netCDF
+#-----------------------------------------------------------------
+# all expressions of format *xxx* need to be specified by the user 
+# all parameter values of format ** need to be specified by the user 
+# soil, land use, and vegetation classes should be made consistent with user-generated .rvh file 
+#-----------------------------------------------------------------
+
+#-----------------------------------------------------------------
+# Soil Classes
+#-----------------------------------------------------------------
+:SoilClasses
+  :Attributes, SAND , CLAY, ORGANIC
+  :Units, frac, frac, frac
+	TOPSOIL1,1,0,0
+	SLOW_RES1,1,0,0
+	FAST_RES1,1,0,0
+	TOPSOIL2,1,0,0
+	SLOW_RES2,1,0,0
+	FAST_RES2,1,0,0
+	TOPSOIL3,1,0,0
+	SLOW_RES3,1,0,0
+	FAST_RES3,1,0,0
+:EndSoilClasses
+
+#-----------------------------------------------------------------
+# Land Use Classes
+#-----------------------------------------------------------------
+:LandUseClasses, 
+  :Attributes,   IMPERM,    FOREST_COV, 
+       :Units,     frac,          frac, 
+  Crops,              0,         0.0, 
+  Shrubgrass,         0,         0.0, 
+  LeafForest,         0,            1,
+  Needleforest,       0,            1, 
+  Open,               0             0, 
+:EndLandUseClasses
+
+#-----------------------------------------------------------------
+# Vegetation Classes
+#-----------------------------------------------------------------
+:VegetationClasses, 
+  :Attributes,          MAX_HT,      MAX_LAI, MAX_LEAF_COND, 
+       :Units,               m,         none,      mm_per_s, 
+      Crops,                 4,            5,             5, 
+      Shrubgrass,            4,            5,             5, 
+      LeafForest,           15,            6,             5, 
+      Needleforest,         15,            6,             5, 
+      Open,                  0,            0,             0,
+:EndVegetationClasses
+
+#-----------------------------------------------------------------
+# Soil Profiles
+#-----------------------------------------------------------------
+:SoilProfiles
+     LAKE,    0
+     ROCK,    0
+     GLACIER, 0
+		 SOIL_1,  3,TOPSOIL1,1.218184E-01,FAST_RES1,0.33,SLOW_RES1,0.33
+		 SOIL_2,  3,TOPSOIL2,1.044249E-01,FAST_RES2,0.33,SLOW_RES2,0.33
+		 SOIL_3,  3,TOPSOIL3,3.616159E-01,FAST_RES3,0.33,SLOW_RES3,0.33
+:EndSoilProfiles
+
+#-----------------------------------------------------------------
+# Global Parameters
+#-----------------------------------------------------------------
+:GlobalParameter          RAINSNOW_TEMP    4.705145E-02 
+:GlobalParameter            RAINSNOW_DELTA 3.593606E+00 
+:GlobalParameter               SNOW_SWI    4.358416E-02 
+:GlobalParameter            TOC_MULTIPLIER 1 
+:GlobalParameter   TIME_TO_PEAK_MULTIPLIER 1 
+:GlobalParameter    GAMMA_SHAPE_MULTIPLIER 1 
+:GlobalParameter    GAMMA_SCALE_MULTIPLIER 1 
+:GlobalParameter        AVG_ANNUAL_RUNOFF  250
+:GlobalParameter        ADIABATIC_LAPSE    5.739160E+00
+#-----------------------------------------------------------------
+# Soil Parameters
+#-----------------------------------------------------------------
+:SoilParameterList
+  :Parameters,        POROSITY,        HBV_BETA,  PET_CORRECTION,  FIELD_CAPACITY,        SAT_WILT, MAX_CAP_RISE_RATE,   MAX_PERC_RATE,  BASEFLOW_COEFF,      BASEFLOW_N, BASEFLOW_COEFF2, STORAGE_THRESHOLD, 
+       :Units,               -,               -,               -,               -,               -,            mm/d,            mm/d,             1/d,               -,             1/d,              mm, 
+    [DEFAULT],             0.4,         2.926659E+00,         8.189547E-01,         4.885366E-01,         1.721797E-01,         2.491712E+00,         7.479116E+01,         4.149429E-01,         1.004494E+00,         2.439897E-01,         50, 
+    TOPSOIL1,         _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT, 
+    FAST_RES1,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT, 
+    SLOW_RES1,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT,        _DEFAULT, 
+    TOPSOIL2,         _DEFAULT,         4.029194E-02,         7.576734E-01,         7.719565E-01,         1.257777E-03,        _DEFAULT,        _DEFAULT,         1.593487E-01,        _DEFAULT,         3.343360E-01,        _DEFAULT, 
+    FAST_RES2,        _DEFAULT,         4.029194E-02,         7.576734E-01,         7.719565E-01,         1.257777E-03,        _DEFAULT,        _DEFAULT,         1.593487E-01,        _DEFAULT,         3.343360E-01,        _DEFAULT, 
+    SLOW_RES2,        _DEFAULT,         4.029194E-02,         7.576734E-01,         7.719565E-01,         1.257777E-03,        _DEFAULT,        _DEFAULT,         5.972093E-02,        _DEFAULT,         3.343360E-01,        _DEFAULT, 
+    TOPSOIL3,         _DEFAULT,         2.544072E+00,         9.696793E-01,         5.883884E-01,         8.983649E-02,        _DEFAULT,        _DEFAULT,         3.482414E-02,        _DEFAULT,         3.209917E-01,         _DEFAULT, 
+    FAST_RES3,        _DEFAULT,         2.544072E+00,         9.696793E-01,         5.883884E-01,         8.983649E-02,        _DEFAULT,        _DEFAULT,         3.482414E-02,        _DEFAULT,         3.209917E-01,         _DEFAULT, 
+    SLOW_RES3,        _DEFAULT,         2.544072E+00,         9.696793E-01,         5.883884E-01,         8.983649E-02,        _DEFAULT,        _DEFAULT,         3.482414E-02,        _DEFAULT,         3.209917E-01,         _DEFAULT, 
+:EndSoilParameterList
+
+#-----------------------------------------------------------------
+# Land Use Parameters
+#-----------------------------------------------------------------
+:LandUseParameterList
+  :Parameters,     MELT_FACTOR,    DD_MELT_TEMP, MIN_MELT_FACTOR, HBV_MELT_ASP_CORR, HBV_MELT_FOR_CORR, REFREEZE_FACTOR, FOREST_SPARSENESS, HBV_MELT_GLACIER_CORR, HBV_GLACIER_KMIN, GLAC_STORAGE_COEFF,  HBV_GLACIER_AG,   LAKE_PET_CORR,	OW_PET_CORR,	LAKE_REL_COEFF,    PDMROF_B,       DEP_MAX, MAX_DEP_AREA_FRAC, PONDED_EXP, 
+       :Units,          mm/d/k,            degC,          mm/d/k,                 -,                 -,          mm/d/k,                 -,           	        -,                -,      	      -,            1/mm,               -,             	  -,		   1/d,           -,            mm,                 -,          -, 
+    [DEFAULT],         6.905577E+00,         -1.956346E-01,               2,                 0,                 1,         1.891230E+00,               0.5,        	  1.417359E+00,            0.001,         	1.457977E-01,               0,         8.225323E-01,          7.467112E-01,		  0.01,           1.0,       250,           0.4,          3, 
+    Crops,            _DEFAULT,        _DEFAULT,        _DEFAULT,          _DEFAULT,          _DEFAULT,        _DEFAULT,          _DEFAULT,        	 _DEFAULT,         _DEFAULT,           _DEFAULT,        _DEFAULT,        _DEFAULT,         _DEFAULT,	      _DEFAULT,     _DEFAULT,       _DEFAULT,           _DEFAULT,    _DEFAULT, 
+    Shrubgrass,       _DEFAULT,        _DEFAULT,        _DEFAULT,          _DEFAULT,          _DEFAULT,        _DEFAULT,          _DEFAULT,      	 _DEFAULT,         _DEFAULT,           _DEFAULT,        _DEFAULT,        _DEFAULT,         _DEFAULT,	      _DEFAULT,     _DEFAULT,       _DEFAULT,           _DEFAULT,    _DEFAULT, 
+    Needleforest,      6.956111E+00,         -4.884909E-01,        _DEFAULT,          _DEFAULT,          _DEFAULT,        _DEFAULT,          _DEFAULT,              _DEFAULT,         _DEFAULT,           _DEFAULT,        _DEFAULT,        _DEFAULT,         _DEFAULT, 	      _DEFAULT,    _DEFAULT,      _DEFAULT,          _DEFAULT,   _DEFAULT, 
+    LeafForest,        6.969206E+00,         -4.884909E-01,        _DEFAULT,          _DEFAULT,          _DEFAULT,        _DEFAULT,          _DEFAULT,        	 _DEFAULT,         _DEFAULT,           _DEFAULT,        _DEFAULT,        _DEFAULT,         _DEFAULT,	      _DEFAULT,    _DEFAULT,      _DEFAULT,          _DEFAULT,   _DEFAULT, 
+    Open,              4.585965E+00,        _DEFAULT,        _DEFAULT,          _DEFAULT,          _DEFAULT,        _DEFAULT,          _DEFAULT,              _DEFAULT,         _DEFAULT,           _DEFAULT,        _DEFAULT,        _DEFAULT,         _DEFAULT,	      _DEFAULT,    _DEFAULT,      _DEFAULT,          _DEFAULT,   _DEFAULT, 
+:EndLandUseParameterList
+
+#-----------------------------------------------------------------
+# Vegetation Parameters
+#-----------------------------------------------------------------
+:VegetationParameterList
+  :Parameters,  RAIN_ICEPT_PCT,  SNOW_ICEPT_PCT,     SAI_HT_RATIO,    MAX_CAPACITY, MAX_SNOW_CAPACITY, 
+       :Units,               -,               -,             mm/d,              mm,                mm,
+    [DEFAULT],         4.198396E-02,         9.436936E-02,                2,         4.461774E+00,           1.885454E+01, 
+    Crops,            _DEFAULT,        _DEFAULT,         _DEFAULT,        _DEFAULT,          _DEFAULT, 
+    Shrubgrass,        5.002468E-02,         3.976429E-02,         _DEFAULT,        _DEFAULT,          _DEFAULT,
+    Needleforest,      2.450139E-02,         2.725891E-02,                4,         8.627461E+00,           8.480322E+00, 
+    LeafForest,        2.450139E-02,         2.725891E-02,                4,         8.627461E+00,           8.480322E+00, 
+    Open,                    0,        _DEFAULT,                2,               0,                 0, 
+:EndVegetationParameterList
+:SeasonalRelativeLAI
+  [DEFAULT], 1,1,1,1,1,1,1,1,1,1,1,1
+:EndSeasonalRelativeLAI
+:SeasonalRelativeHeight
+  [DEFAULT], 1,1,1,1,1,1,1,1,1,1,1,1
+:EndSeasonalRelativeHeight
+
+# ----Channel profiles-------------------------
+:RedirectToFile channel_sections.rvp

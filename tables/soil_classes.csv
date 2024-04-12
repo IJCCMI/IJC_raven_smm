@@ -1,0 +1,13 @@
+Value,Name,Simplified,X,Simplified.Class
+1,Clay,Soil_1,,1
+2,Clay Loam,Soil_1,"2 and 3 are 95% + of model area, only differentiation that may be important",1
+3,Loam,Soil_2,,2
+4,Loamy Sand,Soil_1,,1
+5,Sand,Soil_1,,1
+6,Sandy Clay,Soil_1,,1
+7,Sandy Clay Loam,Soil_1,,1
+8,Sandy Loam,Soil_1,,1
+9,Silt,Soil_1,,1
+10,Silty Clay,Soil_1,,1
+11,Silty Clay Loam,Soil_1,,1
+12,Silt Loam,Soil_1,,1

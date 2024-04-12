@@ -1,0 +1,21 @@
+﻿filename,real_stream_name,USGS_code,subbasin_id,Basin
+BCBMO.csv,Beaver Creek (Bowdoin) at Mouth,6167500,113827,Milk
+BCHMO.csv,Beaver Creek (Havre) at Mouth,6140000,114383,Milk
+BGCMO.csv,Buggy Creek at Mouth,6172200,113862,Milk
+BSCMO.csv,Big Sandy Creek at Mouth,6139500,113637,Milk
+BTCIB.csv,Battle Creek at International Boundary,6149500,114285,Milk
+CLCMO.csv,Clear Creek at Mouth,6142400,113991,Milk
+FRRIB.csv,Frenchman River at International Boundary,6164000,114428,Milk
+LBCMO.csv,Little Box Elder Creek ad Mouth,6141600,113981,Milk
+LDCIB.csv,Lodge Creek at International Boundary,6145500,114261,Milk
+MRWIB.csv,Milk River at Western Crossing of International Boundary,6133000,114115,Milk
+NFKMR.csv,North Fork Milk River above St. Mary Canal,6133500,114119,Milk
+PCCMO.csv,Porcupine Creek at Mouth,6175000,113741,Milk
+PPCMO.csv,People's Creek at Mouth,6154550,113850,Milk
+RKCMO.csv,Rocky Creek at Mouth,6171000,113884,Milk
+SMRBB.csv,"St. Mary River near Babb, MT",5017500,113500,StMary
+SMRIB.csv,St. Mary River at International Boundary,5020500,113518,StMary
+SWCSB.csv,Swiftcurrent Creek at Sherburne Reservoir,5014500,113496,StMary
+WLCMO.csv,Willow Creek at Mouth,6174000,113675,Milk
+WWCMO.csv,Whitewater Creek at International Boundary,6156000,114215,Milk
+MREIB.csv,Milk River at Eastern Crossing of International Boundary,6135000,114036,Milk

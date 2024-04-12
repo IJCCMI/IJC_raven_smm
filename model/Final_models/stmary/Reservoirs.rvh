@@ -1,0 +1,140 @@
+:Reservoir St. Mary Reservoir
+	:SubBasinID 113552
+	:HRUID 2417
+	:WeirCoefficient 0.6
+	:CrestWidth 50
+	:MaxDepth 30.0
+	:LakeArea 32.9
+	:AbsoluteCrestHeight 0
+:EndReservoir St. Mary Reservoir
+
+:Reservoir St. Mary Lake
+	:SubBasinID 113490
+	:HRUID 2602
+	:WeirCoefficient 0.6
+	:CrestWidth 14
+	:MaxDepth 30.0
+	:LakeArea 17.2
+	:AbsoluteCrestHeight 0
+:EndReservoir St. Mary Lake
+
+:Reservoir Nelson Reservoir
+	:SubBasinID 113894
+	:HRUID 4533
+	:WeirCoefficient 0.6
+	:CrestWidth 8
+	:MaxDepth 30.0
+	:LakeArea 11
+	:AbsoluteCrestHeight 0
+:EndReservoir Nelson Reservoir
+
+:Reservoir Lake Bowdoin
+	:SubBasinID 113829
+	:HRUID 4635
+	:WeirCoefficient 0.6
+	:CrestWidth 6
+	:MaxDepth 30.0
+	:LakeArea 13.8
+	:AbsoluteCrestHeight 0
+:EndReservoir Lake Bowdoin
+
+:Reservoir Fresno Reservoir
+	:SubBasinID 114390
+	:HRUID 3347
+	:WeirCoefficient 0.6
+	:CrestWidth 60
+	:MaxDepth 30.0
+	:LakeArea 11.8
+	:AbsoluteCrestHeight 0
+:EndReservoir Fresno Reservoir
+
+:Reservoir Lower St. Mary Lake
+	:SubBasinID 113497
+	:HRUID 2556
+	:WeirCoefficient 0.6
+	:CrestWidth 18
+	:MaxDepth 30.0
+	:LakeArea 8.5
+	:AbsoluteCrestHeight 0
+:EndReservoir Lower St. Mary Lake
+
+:Reservoir Lake Sherburne
+	:SubBasinID 113501
+	:HRUID 2611
+	:WeirCoefficient 0.6
+	:CrestWidth 10
+	:MaxDepth 30.0
+	:LakeArea 6.8
+	:AbsoluteCrestHeight 0
+:EndReservoir Lake Sherburne
+
+:Reservoir Weigand Reservoir
+	:SubBasinID 113819
+	:HRUID 5533
+	:WeirCoefficient 0.6
+	:CrestWidth 15
+	:MaxDepth 30.0
+	:LakeArea 2.7
+	:AbsoluteCrestHeight 0
+:EndReservoir Weigand Reservoir
+
+:Reservoir Newton Lake
+	:SubBasinID 114301
+	:HRUID 3548
+	:WeirCoefficient 0.6
+	:CrestWidth 30
+	:MaxDepth 30.0
+	:LakeArea 4.7
+	:AbsoluteCrestHeight 0
+:EndReservoir Newton Lake
+
+:Reservoir Huff Lake
+	:SubBasinID 114307
+	:HRUID 3598
+	:WeirCoefficient 0.6
+	:CrestWidth 30
+	:MaxDepth 30.0
+	:LakeArea 1.8
+	:AbsoluteCrestHeight 0
+:EndReservoir Huff Lake
+
+:Reservoir Eastend Reservoir
+	:SubBasinID 114339
+	:HRUID 3998
+	:WeirCoefficient 0.6
+	:CrestWidth 25
+	:MaxDepth 30.0
+	:LakeArea 1.2
+	:AbsoluteCrestHeight 0
+:EndReservoir Eastend Reservoir
+
+:Reservoir Cypress Lake
+	:SubBasinID 99999
+	:HRUID 6104
+	:WeirCoefficient 0.6
+	:CrestWidth 8
+	:MaxDepth 30.0
+	:LakeArea 21.7
+	:AbsoluteCrestHeight 0
+:EndReservoir Cypress Lake
+
+:Reservoir Middle Creek Reservoir
+	:SubBasinID 114097
+	:HRUID 4948
+	:WeirCoefficient 0.6
+	:CrestWidth 14
+	:MaxDepth 30.0
+	:LakeArea 4.2
+	:AbsoluteCrestHeight 0
+:EndReservoir Middle Creek Reservoir
+
+:Reservoir Jenson Reservoir
+	:SubBasinID 113585
+	:HRUID 2400
+	:WeirCoefficient 0.6
+	:CrestWidth 20
+	:MaxDepth 30.0
+	:LakeArea 1.9
+	:AbsoluteCrestHeight 0
+:EndReservoir Jenson Reservoir
+

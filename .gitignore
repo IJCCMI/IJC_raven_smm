@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+scratch/
+inputs/spatial/
+outputs/
+model/output/
+inputs/spatial_tgf_raw/
+model/forcing/netcdf/
+*.exe
+*.pdf
+*.png
+*.RDS
+*.html
+*.nc
+.vscode
